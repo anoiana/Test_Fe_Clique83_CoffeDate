@@ -1,0 +1,53 @@
+{
+  "title": "YOUR PORTFOLIO",
+  "subtitle": "CURATING YOUR BEST MOMENTS",
+  "instruction": "High-quality photos help us analyze your style, energy, and authenticity for deeper matching logic.",
+  "id_card": {
+    "title": "ID CARD / CCCD",
+    "description": "Mandatory for safety. Never shared with others. Please provide both front and back photos.",
+    "count": "(2 Required)",
+    "front": "FRONT SIDE",
+    "back": "BACK SIDE"
+  },
+  "avatar": {
+    "title": "AVATAR PORTRAITS",
+    "description": "Clear photos of your face with good lighting.",
+    "count": "(2 Required)"
+  },
+  "full_body": {
+    "title": "FULL BODY SHOTS",
+    "description": "Show us your overall style and presence.",
+    "count": "(2 Required)"
+  },
+  "lifestyle": {
+    "title": "LIFESTYLE MOMENTS",
+    "description": "Captures you in your natural element, hobbies or travels.",
+    "count": "(2 Required)"
+  },
+  "optional": {
+    "title": "EXTRA EXPRESSIONS",
+    "description": "Anything else you'd like to share.",
+    "count": "(3 Optional)"
+  },
+  "upload_button": "SELECT IMAGE",
+  "submit": "FINISH PROFILE",
+  "step_subtitle": "FINAL STEP",
+  "required_count": "({{count}} Required)",
+  "limit_exceeded": "You can only select up to 9 photos at a time.",
+  "all_filled": "All slots are already filled.",
+  "incomplete_toast": "Please upload all 8 required photos to continue.",
+  "uploading": "UPLOADING...",
+  "success": "GALLERY CURATED SUCCESSFULLY",
+  "already_uploaded_proceeding": "Your photos are already on the system. Proceeding...",
+  "upload_failed": "Photo upload failed. Please try again.",
+  "file_too_large": "File size too large. Please compress your image.",
+  "visibility": {
+    "title": "CHOOSE YOUR MATCH PHOTO",
+    "description": "Select the best photo to represent you. This photo will be shown to your potential matches.",
+    "count": "Select 1 Main Photo"
+  },
+  "select_at_least_one": "Please select a photo to continue.",
+  "finishing": "FINALIZING PROFILE...",
+  "visibility_success": "MATCH PROFILE IS READY",
+  "visibility_failed": "Failed to update photo visibility."
+}

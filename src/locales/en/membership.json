@@ -1,0 +1,49 @@
+{
+  "price": "2,000,000đ",
+  "lifetime": "LIFETIME",
+  "payment_method": "Payment Method",
+  "become_member": "Activate <1>Matching Now</1>",
+  "no_recurring": "No hidden costs. One-time payment.",
+  "confirm_membership": "Pay",
+  "processing": "Connecting...",
+  "review_profile": "Review Profile",
+  "initializing_vnpay": "INITIALIZING VNPAY",
+  "processing_mock": "PROCESSING PAYMENT",
+  "redirecting_vnpay": "REDIRECTING TO VNPAY",
+  "membership_confirmed": "MATCHING ACTIVATED",
+  "session_expired": "Session expired. Please sign in again.",
+  "syncing_vnpay": "CHECKING TRANSACTION",
+  "verification_failed": "Verification Failed",
+  "back_to_payment": "Back to Payment",
+  "verified_member": "STATUS: READY",
+  "continue_profile_completion": "Continue profile completion",
+  "welcome_circle": "Welcome<1/> <2>To Clique 83</2>",
+  "start_evaluation": "Enter Match Pool",
+  "priority_matching_enabled": "START MATCHING",
+  "scan_to_pay": "Scan to Pay",
+  "payment_successful": "Payment Successful!",
+  "payment_failed": "Payment Failed",
+  "link_expired": "Payment link expired",
+  "retry": "Retry",
+  "redirecting_success": "REDIRECTING...",
+  "order_code": "Order Code",
+  "open_payos": "Open PayOS Page",
+  "cancel_transaction": "Cancel Transaction",
+  "welcome_msg": "Welcome to the exclusive Clique community.",
+  "error_retry_msg": "Sorry, the transaction could not be completed. Please try again.",
+  "errors": {
+    "create_failed": "Could not create payment link. Please try again.",
+    "processing_error": "Payment processing error"
+  },
+  "admin_review": {
+    "title": "Profile Pending Review",
+    "description": "Thank you for completing the survey! The Clique team is reviewing your profile to ensure community quality. This process usually takes 12-24 hours.",
+    "status": "Status: Pending Review"
+  },
+  "admin_rejected": {
+    "title": "Profile Not Suitable",
+    "description": "Sorry, your profile currently does not meet Clique's community standards. Reason: {{reason}}",
+    "status": "Status: Rejected",
+    "contact_support": "Contact Support"
+  }
+}

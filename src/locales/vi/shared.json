@@ -1,0 +1,36 @@
+{
+  "progress": "TIẾN ĐỘ",
+  "steps": {
+    "pay_fee": "Thanh toán",
+    "pick_date": "Chọn ngày",
+    "go": "Bắt đầu!"
+  },
+  "ready": "SẴN SÀNG",
+  "loading": {
+    "preparing": "ĐANG CHUẨN BỊ TRẢI NGHIỆM CHO BẠN",
+    "connecting_google": "ĐANG KẾT NỐI VỚI GOOGLE...",
+    "initiating": "ĐANG KHỞI TẠO KẾT NỐI",
+    "processing_decision": "ĐANG XỬ LÝ LỰA CHỌN CỦA BẠN"
+  },
+  "error": {
+    "system_error": "LỖI HỆ THỐNG",
+    "unexpected": "Đã xảy ra lỗi không mong muốn."
+  },
+  "success": {
+    "title": "THÀNH CÔNG",
+    "default_message": "Thao tác đã được thực hiện thành công."
+  },
+  "back_aria": "Quay lại",
+  "settings": {
+    "title": "Cài đặt",
+    "services": "Dịch vụ",
+    "matching": "Ghép đôi",
+    "matching_desc_on": "Đang tìm kiếm đối tượng cho bạn.",
+    "matching_desc_off": "Tạm dừng nhận yêu cầu mới.",
+    "configuration": "Cấu hình",
+    "language": "Ngôn ngữ",
+    "notifications": "Thông báo",
+    "security": "Bảo mật",
+    "logout": "Đăng xuất"
+  }
+}

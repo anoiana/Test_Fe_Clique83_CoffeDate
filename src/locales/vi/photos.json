@@ -1,0 +1,53 @@
+{
+  "title": "BỘ SƯU TẬP ẢNH",
+  "subtitle": "CHĂM CHÚT CHO NHỮNG KHOẢNH KHẮC ĐẸP NHẤT",
+  "instruction": "Hình ảnh chất lượng cao giúp chúng tôi phân tích phong cách, năng lượng và độ chân thực của bạn để đưa ra kết quả ghép đôi chính xác hơn.",
+  "id_card": {
+    "title": "GIẤY TỜ TÙY THÂN (CCCD)",
+    "description": "Bắt buộc để đảm bảo an toàn. Không bao giờ được chia sẻ với người khác. Vui lòng cung cấp đầy đủ mặt trước và mặt sau.",
+    "count": "(Cần 2 ảnh)",
+    "front": "MẶT TRƯỚC",
+    "back": "MẶT SAU"
+  },
+  "avatar": {
+    "title": "ẢNH CHÂN DUNG",
+    "description": "Ảnh rõ mặt với ánh sáng tốt.",
+    "count": "(Cần 2 ảnh)"
+  },
+  "full_body": {
+    "title": "ẢNH TOÀN THÂN",
+    "description": "Cho chúng tôi thấy phong cách và sự hiện diện tổng thể của bạn.",
+    "count": "(Cần 2 ảnh)"
+  },
+  "lifestyle": {
+    "title": "KHOẢNH KHẮC ĐỜI THƯỜNG",
+    "description": "Ghi lại những khoảnh khắc tự nhiên, sở thích hoặc chuyến đi của bạn.",
+    "count": "(Cần 2 ảnh)"
+  },
+  "optional": {
+    "title": "BIỂU CẢM KHÁC",
+    "description": "Bất cứ điều gì bạn muốn chia sẻ thêm.",
+    "count": "(Tùy chọn 3 ảnh)"
+  },
+  "upload_button": "CHỌN ẢNH",
+  "submit": "HOÀN TẤT HỒ SƠ",
+  "step_subtitle": "BƯỚC CUỐI CÙNG",
+  "required_count": "({{count}} Bắt buộc)",
+  "limit_exceeded": "Bạn chỉ có thể chọn tối đa 9 ảnh cùng lúc.",
+  "all_filled": "Tất cả các ô đã có ảnh.",
+  "incomplete_toast": "Vui lòng tải lên tất cả 8 ảnh bắt buộc để tiếp tục.",
+  "uploading": "ĐANG TẢI LÊN...",
+  "success": "BỘ SƯU TẬP ẢNH ĐÃ ĐƯỢC CẬP NHẬT THÀNH CÔNG",
+  "already_uploaded_proceeding": "Hình ảnh của bạn đã tồn tại trên hệ thống. Đang chuyển tiếp...",
+  "upload_failed": "Tải ảnh lên thất bại. Vui lòng thử lại.",
+  "file_too_large": "Dung lượng ảnh quá lớn. Vui lòng giảm dung lượng ảnh.",
+  "visibility": {
+    "title": "CHỌN ẢNH ĐẠI DIỆN",
+    "description": "Chọn tấm ảnh đẹp nhất để hiển thị cho đối phương thấy.",
+    "count": "Chọn 1 ảnh làm ảnh chính"
+  },
+  "select_at_least_one": "Vui lòng chọn 1 ảnh để tiếp tục.",
+  "finishing": "ĐANG HOÀN TẤT HỒ SƠ...",
+  "visibility_success": "HỒ SƠ HẸN HÒ ĐÃ SẴN SÀNG",
+  "visibility_failed": "Cập nhật trạng thái ảnh thất bại."
+}

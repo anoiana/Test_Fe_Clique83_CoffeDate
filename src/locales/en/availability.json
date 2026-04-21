@@ -1,0 +1,22 @@
+{
+  "title": "Pick Your Date",
+  "subtitle": "Select Your Preferred Time",
+  "your_windows": "Your Windows",
+  "no_slots": "No slots defined",
+  "no_slots_desc": "Add your free time to find the perfect moment.",
+  "add_availability": "Add Availability",
+  "confirm_schedule": "Confirm Schedule",
+  "confirmed_window": "Confirmed Window",
+  "submitting": "Submitting your availability...",
+  "success": "Availability submitted successfully!",
+  "errors": {
+    "no_meeting": "Meeting information not found. Please go back.",
+    "submit_failed": "Failed to submit availability. Please try again."
+  },
+  "modal": {
+    "title": "Select Availability",
+    "subtitle": "Drag to paint your schedule",
+    "clear_all": "Clear All",
+    "save": "Save"
+  }
+}

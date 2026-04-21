@@ -1,0 +1,56 @@
+{
+  "header": "Your Date Status",
+  "title": "Manage your",
+  "subtitle": "Connections.",
+  "no_meetings": "No meetings found",
+  "back_to_search": "Back to Search",
+  "fetch_error": "Failed to load meeting status.",
+  "status": {
+    "awaiting_payment": {
+      "label": "Awaiting Payment",
+      "description": "Please complete your reservation fee.",
+      "action": "Pay Now"
+    },
+    "awaiting_availability": {
+      "label": "Set Availability",
+      "description": "Match confirmed! Both parties paid. Now choose your times.",
+      "action": "Choose Availability"
+    },
+    "awaiting_location": {
+      "label": "Finalizing Location",
+      "description": "We found a common time! Choosing the perfect spot now.",
+      "action": "Confirm Location"
+    },
+    "confirmed": {
+      "label": "Confirmed",
+      "description": "Everything is set! Check your date details below.",
+      "action": "View Details"
+    },
+    "completed": {
+      "label": "Completed",
+      "description": "We hope you had an unforgettable experience."
+    },
+    "expired": {
+      "label": "Expired",
+      "description": "This meeting link has expired or was canceled."
+    },
+    "processing": "Processing your connection..."
+  },
+  "waiting_match_payment": "Awaiting match payment",
+  "waiting_match_availability": "Awaiting match availability",
+  "waiting_match_location": "Awaiting match venue",
+  "you": "You",
+  "match": "Match",
+  "paid": "Paid",
+  "location_selected": "Selected",
+  "pending": "Pending",
+  "date": "Date",
+  "time": "Time",
+  "date_time": "Date & Time",
+  "location": "Location",
+  "confirmed_venue": "Location",
+  "on_time_promise": "I'll be there on time",
+  "meeting_closed": "Meeting Closed",
+  "secure_escrow": "Secure Escrow Enabled",
+  "escrow_policy": "Funds are held securely until the date is confirmed or canceled according to our policy."
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Chọn thời gian",
+  "subtitle": "Chọn khung giờ bạn mong muốn",
+  "your_windows": "Khung giờ của bạn",
+  "no_slots": "Chưa có khung giờ nào",
+  "no_slots_desc": "Thêm thời gian rảnh của bạn để tìm thời điểm gặp mặt hoàn hảo.",
+  "add_availability": "Thêm thời gian rảnh",
+  "confirm_schedule": "Xác nhận lịch trình",
+  "confirmed_window": "Thời gian đã chọn",
+  "submitting": "Đang gửi lịch rảnh của bạn...",
+  "success": "Đã gửi lịch rảnh thành công!",
+  "errors": {
+    "no_meeting": "Không tìm thấy thông tin cuộc hẹn. Vui lòng quay lại.",
+    "submit_failed": "Không thể gửi lịch rảnh. Vui lòng thử lại."
+  },
+  "modal": {
+    "title": "Chọn thời gian",
+    "subtitle": "Kéo để chọn lịch trình của bạn",
+    "clear_all": "Xoá tất cả",
+    "save": "Lưu"
+  }
+}

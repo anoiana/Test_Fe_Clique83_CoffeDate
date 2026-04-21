@@ -1,0 +1,30 @@
+{
+  "title": "CÀI ĐẶT",
+  "profile": {
+    "title": "Hồ sơ"
+  },
+  "matching_service": {
+    "title": "Dịch vụ ghép đôi",
+    "mode_label": "Chế độ Ghép đôi",
+    "searching": "Đang tìm kiếm",
+    "resting": "Tạm nghỉ",
+    "desc_searching": "Hệ thống sẽ tự động phân tích và ghép đôi bạn với những người phù hợp mỗi ngày.",
+    "desc_resting": "Bạn sẽ tạm thời không nhận được bất kỳ yêu cầu ghép đôi mới nào từ hệ thống.",
+    "pool_active": "ĐÃ QUAY LẠI DANH SÁCH GHÉP ĐÔI",
+    "pool_inactive": "ĐÃ TẠM NGHỈ GHÉP ĐÔI",
+    "update_error": "Không thể cập nhật trạng thái. Vui lòng thử lại."
+  },
+  "app_settings": {
+    "title": "Ứng dụng",
+    "language": "Ngôn ngữ",
+    "notifications": "Thông báo",
+    "security": "Bảo mật",
+    "on": "Bật",
+    "off": "Tắt",
+    "review_profile": "Xem lại hồ sơ",
+    "help": "Hướng dẫn & Trợ giúp"
+  },
+  "auth": {
+    "logout": "Đăng xuất"
+  }
+}

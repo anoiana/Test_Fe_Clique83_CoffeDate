@@ -1,0 +1,21 @@
+{
+  "EMAIL_TAKEN": "This email is already in use. Please try another.",
+  "INVALID_CREDENTIALS": "Incorrect email or password.",
+  "USER_NOT_FOUND": "User not found.",
+  "EXPIRED_OTP": "OTP code has expired. Please request a new one.",
+  "OTP_EXPIRED": "OTP code has expired. Please request a new one.",
+  "INVALID_OTP": "Incorrect OTP code.",
+  "INTERNAL_SERVER_ERROR": "System error occurred. Please try again later.",
+  "NETWORK_ERROR": "No internet connection. Please check your network.",
+  "UNAUTHORIZED": "Session expired. Please log in again.",
+  "ACCOUNT_LOCKED": "Your account has been temporarily locked.",
+  "PASSWORD_TOO_WEAK": "Password is too weak. Please use at least 8 characters.",
+  "PASSWORD_NOT_SET_USE_GOOGLE": "Your account is linked with Google. Please use the 'Sign in with Google' button below.",
+  "GENERIC_ERROR": "An unknown error has occurred.",
+  "REQUIRED_FIELD": "Please complete this field.",
+  "MIN_3_REQUIRED": "Please select at least 3 options to continue.",
+  "MIN_LENGTH_2": "Please enter at least 2 characters.",
+  "INVALID_BIRTHDATE": "Please enter a valid date (DD/MM/YYYY).",
+  "UNDERAGE": "You must be at least 21 years old.",
+  "REQUIRED_LOCATION": "Please select your city."
+}

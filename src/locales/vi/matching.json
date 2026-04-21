@@ -1,0 +1,452 @@
+{
+  "congrats": {
+    "title": "Bạn đã có một đối tượng ghép đôi!",
+    "subtitle": "Một người đặc biệt đang chờ đợi bạn",
+    "revealing": "ĐANG TIẾT LỘ...",
+    "view_match": "Xem đối tượng của bạn"
+  },
+  "round2": {
+    "common": {
+      "other": "Khác",
+      "ready": "SẴN SÀNG",
+      "specify_placeholder": "Vui lòng ghi rõ...",
+      "type_here_placeholder": "Nhập tại đây...",
+      "section_prefix": "Phần",
+      "question_prefix": "C",
+      "min_chars": "Tối thiểu {{count}} ký tự",
+      "char_count": "{{count}} ký tự",
+      "selection_note_slider": "Kéo để chọn",
+      "selection_note_no_right_answer": "Không có đáp án đúng. Chỉ cần chọn điều gần với bạn nhất.",
+      "day_prefix": "ngày "
+    },
+    "sections": {
+      "values": {
+        "title_highlight": "TRÂN TRỌNG",
+        "title_normal": "NHỮNG GÌ BẠN",
+        "description": "Điều bạn coi trọng trong cuộc sống sẽ định hình sự hòa hợp trong một mối quan hệ."
+      },
+      "match": {
+        "title_highlight": "ĐỘ TUỔI",
+        "title_normal": "BẠN MỞ LÒNG",
+        "description": "Tuổi tác chỉ là một phần. Nhưng khoảng tuổi bạn chọn sẽ ảnh hưởng trực tiếp đến số lượng và chất lượng match tụi mình có thể gửi cho bạn."
+      },
+      "personality": {
+        "title_highlight": "CÁCH BẠN",
+        "title_normal": "KẾT NỐI",
+        "description": "Hiểu về cách bạn tương tác và gắn kết giúp chúng tôi tìm được sự tương hợp sâu sắc hơn."
+      },
+      "lifestyle": {
+        "title_highlight": "NHỊP SỐNG",
+        "title_normal": "& THỂ CHẤT",
+        "description": "Sức khỏe và phong cách sống giúp chúng tôi tìm được người có cùng nhịp điệu với bạn.",
+        "height_note": "Dữ liệu sẽ được bảo mật việc cho tìm match",
+        "height_warning": "* Chiều cao chỉ được dùng để ghép đôi chính xác hơn, không hiển thị công khai."
+      },
+      "interests": {
+        "title_highlight": "SỞ THÍCH",
+        "title_normal": "ĐAM MÊ",
+        "description": "Những trải nghiệm bạn yêu thích sẽ giúp Clique hình dung rõ hơn kiểu kết nối khiến bạn thấy hào hứng và gần gũi.​"
+      },
+      "background": {
+        "title_highlight": "VĂN HOÁ,",
+        "title_normal": "NIỀM TIN & NGÔN NGỮ",
+        "description": ""
+      },
+      "expression": {
+        "title_highlight": "DẤU ẤN",
+        "title_normal": "CÁ NHÂN",
+        "description": "Hãy chia sẻ càng thật và càng nhiều chi tiết, Coffee Date sẽ có cơ hội hiểu bạn rõ hơn — để match đúng hơn, và kể câu chuyện của bạn một cách đúng với con người bạn."
+      }
+    },
+    "slider": {
+      "likert": {
+        "completely_min": "Hoàn toàn {{label}}",
+        "leaning_min": "Hơi {{label}}",
+        "neutral": "Ở giữa (Cân bằng)",
+        "leaning_max": "Hơi {{label}}",
+        "completely_max": "Hoàn toàn {{label}}"
+      }
+    },
+    "accept_divorced": {
+      "title": "Bạn có ngại hẹn hò với người đã từng ly hôn không?",
+      "options": {
+        "yes": "Có",
+        "no": "Không",
+        "depends": "Tùy trường hợp"
+      }
+    },
+    "activities": {
+      "title": "CÁCH BẠN MUỐN​ CÙNG NHAU TẬN HƯỞNG CUỘC SỐNG​?",
+      "description": "Bạn có thể chọn nhiều câu trả lời",
+      "options": {
+        "traveling": "Đi du lịch & khám phá vùng đất mới",
+        "fitness_gym": "Tập Gym, Nâng cao thể lực",
+        "outdoor_sports": "Thể thao ngoài trời (Chạy bộ, đạp xe...)",
+        "yoga_wellness": "Yoga, Thiền, Chăm sóc tâm hồn",
+        "reading": "Đọc sách & chia sẻ kiến thức",
+        "movies_netflix": "Xem phim, Cùng 'cày' Netflix",
+        "music_concerts": "Nghe nhạc, Đi xem hòa nhạc",
+        "cooking_food": "Nấu ăn, Khám phá quán ngon",
+        "cafe_hopping": "Đi cà phê, Tán gẫu",
+        "nightlife_bars": "Chill tại Bar, Pub",
+        "art_exhibitions": "Nghệ thuật, Xem triển lãm",
+        "photography": "Chụp ảnh, Sáng tạo nội dung",
+        "gaming": "Chơi Game",
+        "business_networking": "Kết nối kinh doanh, Công việc",
+        "volunteering": "Làm tình nguyện, Thiện nguyện",
+        "spiritual_meditation": "Tìm hiểu tâm linh, Chữa lành"
+      }
+    },
+    "age_range": {
+      "title": "Bạn mong muốn gặp gỡ người trong độ tuổi nào?",
+      "from": "TỪ",
+      "to": "ĐẾN",
+      "target_age": "Độ tuổi lý tưởng",
+      "flexible_label": "Tôi vẫn sẵn lòng nhận match Nếu có người rất hợp, nhưng nằm ngoài khoảng tuổi này.",
+      "age_warning": "Chọn khoảng độ tuổi gần với bạn sẽ giúp tăng cơ hội ghép đôi thành công và nhanh chóng hơn!"
+    },
+    "attachment_style": {
+      "title": "Trong tình yêu, bạn thường là người như thế nào?",
+      "options": {
+        "secure": "Tự tin & Gắn kết. Tôi tin tưởng vào bản thân và đối phương",
+        "anxious": "Nhạy cảm & Quan tâm. Tôi cần sự kết nối và khẳng định thường xuyên",
+        "avoidant": "Độc lập & Tự chủ. Tôi cần không gian riêng để cảm thấy thoải mái",
+        "not_sure": "Tôi cũng chưa rõ, cần thời gian để tìm hiểu thêm"
+      }
+    },
+    "openness": {
+      "title": "Trong một mối quan hệ, bạn nghiêng về một người giống mình hơn — hay một người khác mình để bổ sung cho nhau?",
+      "min_label": "Đồng điệu",
+      "max_label": "Bổ sung cho nhau"
+    },
+    "dealbreakers": {
+      "title": "Có điều gì bạn chắc chắn sẽ không bao giờ chấp nhận ở đối phương?",
+      "placeholder": "Ví dụ: Không muốn người có kế hoạch định cư xa, v.v."
+    },
+    "children_view": {
+      "title": "Bạn nghĩ gì về việc có con?",
+      "options": {
+        "want_children": "Tôi muốn có con",
+        "no_children": "Tôi không muốn có con",
+        "already_have": "Tôi đã có con rồi",
+        "open_undecided": "Tôi cởi mở , chưa quyết định"
+      }
+    },
+    "conflict_style": {
+      "title": "Khi có điều gì đó làm bạn phiền lòng, bạn thường…",
+      "options": {
+        "direct": "Giải quyết trực tiếp",
+        "time": "Dành thời gian suy nghĩ trước khi nói",
+        "gentle_indirect": "Giao tiếp nhẹ nhàng hoặc gián tiếp",
+        "avoid": "Tránh xung đột nếu có thể"
+      }
+    },
+    "core_values": {
+      "title": "Điều gì là ưu tiên hàng đầu trong cuộc sống của bạn?",
+      "description": "Bạn có thể chọn nhiều câu trả lời",
+      "options": {
+        "family": "Gia đình & các mối quan hệ thân thiết",
+        "career": "Sự nghiệp & thành tựu",
+        "financial": "Tài chính ổn định",
+        "freedom": "Tự do cá nhân & sự độc lập",
+        "adventure": "Phiêu lưu & khám phá",
+        "creativity": "Sáng tạo & thể hiện bản thân",
+        "spirituality": "Tâm linh hoặc đức tin",
+        "health": "Sức khỏe & sự an lạc",
+        "growth": "Phát triển trí tuệ",
+        "contribution": "Sự đóng góp & giúp đỡ người khác",
+        "stability": "Sự ổn định & thói quen",
+        "community": "Cộng đồng & kết nối xã hội",
+        "romantic_relationship": "Mối quan hệ lãng mạn"
+      }
+    },
+    "cultural_bg": {
+      "title": "Bạn sinh ra và lớn lên trong môi trường văn hóa nào?",
+      "options": {
+        "vn_raised_vn": "Người Việt, lớn lên tại Việt Nam",
+        "vn_raised_abroad": "Người Việt, lớn lên ở nước ngoài",
+        "vn_mixed": "Người Việt có nền tảng hỗn hợp",
+        "asian_non_vn": "Người Châu Á (không phải Việt Nam)",
+        "western": "Người phương Tây",
+        "mixed_intl": "Nền tảng quốc tế hỗn hợp"
+      }
+    },
+    "decision_style": {
+      "title": "Bạn thường đưa ra những quyết định quan trọng dựa trên lý trí hay cảm xúc?",
+      "options": {
+        "logic": "Logic & lập kế hoạch dài hạn",
+        "emotional": "Trực giác cảm xúc",
+        "balance": "Sự cân bằng của cả hai"
+      }
+    },
+    "diet": {
+      "title": "Bạn có sở thích ăn uống đặc biệt nào không?",
+      "options": {
+        "no_restriction": "Ăn uống bình thường",
+        "vegetarian": "Ăn chay",
+        "vegan": "Ăn thuần chay",
+        "halal": "Chế độ Halal"
+      }
+    },
+    "mbti": {
+      "title": "Nhóm tính cách (MBTI) của bạn là gì?",
+      "description": "Nếu chưa rõ, bạn có thể <1>làm bài kiểm tra tại đây →</1>",
+      "test_url": "https://www.16personalities.com/vi/bài-kiểm-tra-tính-cách",
+      "options": {
+        "dont_know": "Tôi không rõ nhóm tính cách của mình"
+      }
+    },
+    "life_stage": {
+      "title": "Hiện tại, bạn thấy mình đang ở giai đoạn nào của cuộc sống?",
+      "options": {
+        "exploring": "Đang trải nghiệm & khám phá thế giới",
+        "building_career": "Tập trung tối đa cho sự nghiệp",
+        "established": "Đã ổn định & vững vàng về mọi mặt",
+        "starting_family": "Đã sẵn sàng xây dựng tổ ấm riêng",
+        "in_transition": "Đang có những thay đổi lớn (chuyển việc, chuyển chỗ ở...)"
+      }
+    },
+    "lifestyle": {
+      "title": "Bạn là người sống theo kế hoạch hay thích sự ngẫu hứng?",
+      "min_label": "Kế hoạch",
+      "max_label": "Ngẫu hứng"
+    },
+    "love_language": {
+      "title": "Bạn cảm thấy được yêu thương nhất khi đối phương làm gì?",
+      "description": "Bạn có thể chọn nhiều câu trả lời",
+      "options": {
+        "affirmation": "Nói những lời ngọt ngào, khích lệ",
+        "quality_time": "Dành trọn vẹn thời gian bên nhau",
+        "acts_of_service": "Chăm sóc bằng những hành động thiết thực",
+        "physical_touch": "Những cử chỉ thân mật (nắm tay, cái ôm...)",
+        "gifts": "Tặng những món quà ý nghĩa"
+      }
+    },
+    "marital_status": {
+      "title": "Tình trạng hiện tại của bạn?",
+      "options": {
+        "single": "Chưa từng lập gia đình",
+        "divorced": "Đã ly hôn",
+        "widowed": "Vợ, Chồng đã mất",
+        "separated": "Đang ly thân"
+      }
+    },
+    "bio": {
+      "title": "Hãy kể cho tụi mình nghe về bạn",
+      "selection_note": "Đừng chỉ viết vài tính từ chung chung. Hãy cho tụi mình thấy cách bạn sống, cách bạn yêu, điều gì quan trọng với bạn, và bạn đang mong chờ điều gì ở một mối quan hệ.",
+      "placeholder": "Ví dụ: Tôi là người sống tình cảm nhưng khá lý trí khi bước vào một mối quan hệ. Tôi coi trọng sự tử tế, cách giao tiếp, và cảm giác an toàn khi ở cạnh nhau. Ngoài công việc, tôi thích những niềm vui nhỏ như đi bộ, cà phê, đọc, hoặc khám phá một nơi mới. Tôi bị thu hút bởi những người có chiều sâu, biết mình muốn gì, và vẫn giữ được sự ấm áp…"
+    },
+    "three_words": {
+      "title": "3 từ mô tả về bạn"
+    },
+    "anything_else": {
+      "title": "Có điều gì khác bạn muốn chia sẻ không?",
+      "placeholder": "Tùy chọn — chia sẻ bất cứ điều gì bạn muốn..."
+    },
+    "habits": {
+      "smoking": {
+        "title": "Quan điểm của bạn về việc hút thuốc?",
+        "options": {
+          "never": "Nói không với thuốc lá",
+          "occasionally": "Thỉnh thoảng (trong dịp giao lưu)",
+          "regularly": "Thường xuyên có hút thuốc"
+        }
+      },
+      "accept_smoker": {
+        "title": "Bạn có thoải mái khi hẹn hò với người hút thuốc không?",
+        "options": {
+          "yes": "Có, tôi thấy bình thường",
+          "no": "Không, tôi không thích khói thuốc",
+          "depends": "Tùy vào tần suất & không gian"
+        }
+      },
+      "drinking": {
+        "title": "Thói quen sử dụng đồ uống có cồn của bạn?",
+        "options": {
+          "never": "Không bao giờ uống",
+          "occasionally": "Thỉnh thoảng (nhấp môi khi vui)",
+          "socially": "Chỉ uống khi giao tiếp xã hội",
+          "regularly": "Uống thường xuyên"
+        }
+      },
+      "accept_drinking": {
+        "title": "Đối phương của bạn có thể là người hay uống rượu , bia không?",
+        "options": {
+          "yes": "Được chứ, đi uống cùng tôi",
+          "no": "Tôi thích người không uống rượu bia",
+          "depends": "Uống có chừng mực thì ổn"
+        }
+      }
+    },
+    "height": {
+      "title": "Chiều cao của bạn (cm)",
+      "min_label": "140 cm",
+      "max_label": "210 cm",
+      "suffix": "cm"
+    },
+    "min_height": {
+      "title": "Chiều cao mong đợi ở người ấy:"
+    },
+    "personality_social": {
+      "title": "Bạn thấy mình là người thiên về hướng nội hay hướng ngoại?",
+      "min_label": "Hướng nội",
+      "max_label": "Hướng ngoại",
+      "options": {
+        "strongly_introverted": "Rất hướng nội",
+        "slightly_introverted": "Hơi hướng nội",
+        "balanced": "Cân bằng",
+        "slightly_extroverted": "Hơi hướng ngoại",
+        "strongly_extroverted": "Rất hướng ngoại"
+      }
+    },
+    "languages": {
+      "title": "Bạn có thể giao tiếp tự tin bằng những ngôn ngữ nào?",
+      "description": "Hãy chọn tất cả các ngôn ngữ bạn có thể giao tiếp",
+      "search_placeholder": "Tìm ngôn ngữ khác...",
+      "no_results": "Không tìm thấy ngôn ngữ này",
+      "options": {
+        "vietnamese": "Tiếng Việt",
+        "english": "Tiếng Anh",
+        "chinese": "Tiếng Trung Quốc",
+        "japanese": "Tiếng Nhật Bản",
+        "korean": "Tiếng Hàn Quốc",
+        "french": "Tiếng Pháp",
+        "german": "Tiếng Đức",
+        "dutch": "Tiếng Hà Lan",
+        "spanish": "Tiếng Tây Ban Nha",
+        "italian": "Tiếng Ý",
+        "russian": "Tiếng Nga",
+        "portuguese": "Tiếng Bồ Đào Nha",
+        "swedish": "Tiếng Thụy Điển",
+        "norwegian": "Tiếng Na Uy",
+        "danish": "Tiếng Đan Mạch",
+        "finnish": "Tiếng Phần Lan",
+        "greek": "Tiếng Hy Lạp",
+        "polish": "Tiếng Ba Lan",
+        "czech": "Tiếng Séc",
+        "hungarian": "Tiếng Hung-ga-ri",
+        "ukrainian": "Tiếng U-krai-na",
+        "romanian": "Tiếng Ru-ma-ni",
+        "thai": "Tiếng Thái",
+        "khmer": "Tiếng Campuchia (Khmer)",
+        "lao": "Tiếng Lào",
+        "malay": "Tiếng Mã Lai / Indonesia",
+        "tagalog": "Tiếng Philippines (Tagalog)",
+        "burmese": "Tiếng Miến Điện",
+        "arabic": "Tiếng Ả Rập",
+        "turkish": "Tiếng Thổ Nhĩ Kỳ",
+        "hindi": "Tiếng Hindi",
+        "sign_language_vn": "Ngôn ngữ ký hiệu VN",
+        "sign_language_intl": "Ngôn ngữ ký hiệu quốc tế",
+        "other": "Ngôn ngữ khác"
+      }
+    },
+    "money_relation": {
+      "title": "Bạn thường quản lý tài chính theo phong cách nào?",
+      "options": {
+        "plan_save": "Kỹ lưỡng: Lập kế hoạch và tiết kiệm từng đồng",
+        "spend_enjoy": "Hưởng thụ: Chi tiêu cho niềm vui hiện tại",
+        "invest_growth": "Đầu tư: Ưu tiên phát triển tài sản lâu dài",
+        "balance": "Cân bằng: Biết tiết kiệm nhưng vẫn biết hưởng thụ",
+        "not_focus": "Tự do: Tiền bạc không phải là ưu tiên số một"
+      }
+    },
+    "nationality": {
+      "title": "Quốc tịch của bạn là gì?",
+      "options": {
+        "vietnamese": "Việt Nam",
+        "american": "Mỹ",
+        "british": "Anh",
+        "chinese": "Trung Quốc",
+        "korean": "Hàn Quốc",
+        "japanese": "Nhật Bản",
+        "french": "Pháp",
+        "german": "Đức",
+        "australian": "Úc",
+        "canadian": "Canada",
+        "singaporean": "Singapore",
+        "thai": "Thái Lan",
+        "other": "Khác"
+      }
+    },
+    "pet": {
+      "title": "Về việc nuôi thú cưng trong nhà",
+      "options": {
+        "love": "Tôi yêu thú cưng",
+        "okay": "Tôi thấy ổn với thú cưng",
+        "no_pets": "Tôi ưu tiên không nuôi thú cưng",
+        "allergic": "Tôi bị dị ứng , không thể sống cùng thú cưng"
+      }
+    },
+    "physical_activity": {
+      "title": "Nhịp sống của bạn thiên về vận động ở mức nào?",
+      "min_label": "Cơ bản",
+      "max_label": "Rất năng động",
+      "options": {
+        "very_low": "Rất thấp (hiếm khi tập thể dục)",
+        "low": "Thấp (1–2 lần/tuần)",
+        "moderate": "Trung bình (3–4 lần/tuần)",
+        "high": "Cao (5+ lần/tuần)",
+        "very_active": "Rất năng động (hàng ngày , cấp độ vận động viên)"
+      }
+    },
+    "religion": {
+      "title": "Tôn giáo của bạn là gì?",
+      "options": {
+        "none": "Không có",
+        "buddhism": "Phật giáo",
+        "christianity": "Cơ đốc giáo",
+        "catholic": "Công giáo",
+        "islam": "Hồi giáo",
+        "hinduism": "Ấn Độ giáo",
+        "spiritual": "Tâm linh nhưng không tôn giáo"
+      },
+      "importance": {
+        "title": "Việc cùng tôn giáo đối với bạn quan trọng như thế nào?",
+        "min_label": "Không quan trọng",
+        "max_label": "Rất quan trọng"
+      }
+    },
+    "spirituality": {
+      "title": "Bạn có tin vào bói toán , tâm linh không?",
+      "min_label": "Không tin chút nào",
+      "max_label": "Rất tin tưởng"
+    },
+    "shared_interests": {
+      "title": "Việc có cùng sở thích với đối phương quan trọng thế nào với bạn?",
+      "description": "Mức độ quan trọng của sở thích chung",
+      "min_label": "Không quan trọng",
+      "max_label": "Rất quan trọng "
+    },
+    "social_media": {
+      "title": "Liên kết mạng xã hội",
+      "description": "Cung cấp mạng xã hội giúp chúng tôi xác minh hồ sơ và tìm kiếm những sự kết nối phù hợp hơn.",
+      "facebook": {
+        "label": "Facebook",
+        "placeholder": "https://facebook.com/trangcanhan"
+      },
+      "instagram": {
+        "label": "Instagram",
+        "placeholder": "@tennguoidung hoặc liên kết"
+      },
+      "linkedin": {
+        "label": "LinkedIn",
+        "placeholder": "https://linkedin.com/in/trangcanhan"
+      }
+    },
+    "curating_experience": "Hệ thống đang chuẩn bị trải nghiệm cho bạn...",
+    "survey_completed": "Khảo sát đã hoàn tất thành công",
+    "membership_required": "Yêu cầu quyền thành viên",
+    "rest_stop": {
+      "done_p1_title": "Khởi đầu tốt đẹp!",
+      "done_p1_desc": "Những thói quen của bạn sẽ giúp chúng tôi tìm thấy người có cùng tần số.",
+      "next_p2_title": "Quan điểm & Cách yêu",
+      "next_p2_desc": "Chia sẻ về quan điểm sống và cách bạn dành tình cảm trong một mối quan hệ.",
+      "done_p2_title": "Sâu sắc & Gắn kết",
+      "done_p2_desc": "Những chia sẻ chân thành là chìa khóa cho một mối quan hệ bền vững.",
+      "next_p3_title": "Tiêu chuẩn hẹn hò",
+      "next_p3_desc": "Phác họa chân dung 'người ấy' và đặt ra kỳ vọng cho buổi hẹn lý tưởng.",
+      "up_next": "TIẾP THEO"
+    }
+  }
+}

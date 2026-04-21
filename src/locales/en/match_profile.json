@@ -1,0 +1,80 @@
+{
+  "curated_match": "CURATED FOR YOU",
+  "discover_more": "Scroll down to see more",
+  "end_of_profile": "End of profile",
+  "start_story": "Start your <1>story</1>",
+  "math_promise": "{{userName}}, your search for a meaningful connection may have finally found its echo in {{name}}.",
+  "sections": {
+    "about": "About",
+    "values": "Values & Life Priorities",
+    "lifestyle": "Lifestyle",
+    "relationship": "Relationship Style",
+    "background": "Background",
+    "interests": "Interests"
+  },
+  "story_labels": {
+    "hook": "THE CONNECTION POINT",
+    "reveal": "CLIQUE REVEAL",
+    "why_this_match": "WHY THIS MATCH",
+    "emotional_fit": "EMOTIONAL COMPATIBILITY",
+    "lifestyle": "LIFESTYLE FIT",
+    "dynamics": "RELATIONSHIP DYNAMICS",
+    "insight": "DEEPER INSIGHT"
+  },
+  "complementarity_title": "COMPLEMENTARY BALANCE",
+  "visualize_moment": "Visualize the moment",
+  "next_step_title": "Ready to take the next step?",
+  "next_step_desc": "If you both express interest, we'll set up a coffee date for you.",
+  "ready_to_meet": "READY TO MEET?",
+  "quick_facts": {
+    "snapshot": "Decision Snapshot",
+    "title": "At a Glance"
+  },
+  "labels": {
+    "age": "Age",
+    "city": "City",
+    "job": "Job",
+    "intention": "Intent",
+    "children": "Children",
+    "height": "Height",
+    "smoking": "Smoking",
+    "drinking": "Drinking",
+    "mbti": "MBTI Personality",
+    "religion": "Religion",
+    "marital_status": "Marital Status"
+  },
+  "visual_story": {
+    "label": "Visual story",
+    "title": "Moments & Memories"
+  },
+  "proof": {
+    "label": "Why Clique matched you",
+    "title": "Immediate Validation"
+  },
+  "realism": {
+    "label": "Honest Realism",
+    "footer": "Winning Trust First"
+  },
+  "details": {
+    "deep_dive": "Deep Dive",
+    "title": "Full Profile Details",
+    "priority": "Priority",
+    "activity_level": "Activity Level",
+    "pets": "Pets",
+    "diet": "Diet",
+    "communication": "Communication",
+    "attachment": "Attachment Style",
+    "love_languages": "Love Languages",
+    "education": "Education",
+    "culture": "Culture",
+    "languages": "Languages",
+    "nationality": "Nationality"
+  },
+  "defaults": {
+    "communication": "Direct & Open",
+    "love_language": "Quality Time",
+    "culture": "Vietnamese",
+    "languages": "Vietnamese, English",
+    "nationality": "Vietnam"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "awaiting_response": "Đang đợi phản hồi",
+  "great_choice": "Lựa chọn tuyệt vời!",
+  "waiting_for_match": "Chúng tôi đang đợi {{name}} chọn thời gian phù hợp với họ.",
+  "syncing": "Đang đồng bộ lịch trình...",
+  "overlap_notif": "Khi {{name}} chọn lịch rảnh, chúng tôi sẽ tìm thời gian chung của cả hai và báo cho bạn ngay.",
+  "notify_her": "Nhắc nhở cô ấy",
+  "send_note": "Gửi lời nhắn",
+  "timing_desc": "Việc này thường mất chưa đầy 24 giờ. Chúng tôi sẽ báo cho bạn khi có kết quả.",
+  "refresh_status": "Cập nhật trạng thái",
+  "clique_experience": "Trải nghiệm Clique",
+  "status": "Trạng thái",
+  "pool": {
+    "title": "Chế độ Ghép đôi",
+    "active": "Đang tìm kiếm",
+    "inactive": "Tạm nghỉ",
+    "desc_active": "Bạn đang ở trong danh sách chờ ghép đôi mỗi ngày.",
+    "desc_inactive": "Hệ thống sẽ tạm thời không tìm người mới cho bạn."
+  }
+}

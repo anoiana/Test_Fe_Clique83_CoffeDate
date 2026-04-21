@@ -1,0 +1,29 @@
+{
+  "confirm": {
+    "title": "HOÀN THÀNH CUỘC HẸN",
+    "ready": "SẴN SÀNG",
+    "locked": "CHƯA ĐẾN GIỜ",
+    "unlock_desc": "Bạn có thể hoàn thành cuộc hẹn sau",
+    "unlock_footer": "kể từ lúc bắt đầu buổi hẹn",
+    "countdown_ready": "Thời gian chờ đã kết thúc!",
+    "unlocked_message": "Sẵn sàng để gửi phản hồi",
+    "minute": "phút",
+    "minutes": "phút",
+    "note_label": "Lưu ý",
+    "note_desc": "Sau khi hoàn thành cuộc hẹn, bạn sẽ được điều hướng đến form đánh giá 10 câu hỏi để chia sẻ trải nghiệm của mình.",
+    "action_button": "Hoàn thành cuộc hẹn"
+  },
+  "promise": {
+    "title": "CAM KẾT HOÀN THÀNH",
+    "desc": "Cảm ơn bạn đã xác nhận! Buổi hẹn của bạn đã được ghi nhận.",
+    "next_step_label": "Tiếp theo",
+    "next_step_desc": "Sau buổi hẹn, bạn có thể đánh giá và gửi phản hồi cho Clique83 sau <1>30 phút</1> kể từ lúc bắt đầu.",
+    "action": "Tiếp tục"
+  },
+  "thank_you": {
+    "title": "CẢM ƠN BẠN!",
+    "desc": "Phản hồi của bạn giúp Clique83 cải thiện chất lượng ghép đôi và mang lại trải nghiệm tốt hơn.",
+    "action": "VỀ TRANG CHỦ"
+  },
+  "initializing": "ĐANG KHỞI TẠO ĐÁNH GIÁ"
+}

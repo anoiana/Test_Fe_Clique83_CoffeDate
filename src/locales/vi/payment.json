@@ -1,0 +1,61 @@
+{
+  "premium_service": "Dịch vụ Cao cấp",
+  "secure_your_date": "Xác nhận đặt chỗ",
+  "final_step": "Xác lập sự đồng điệu xứng tầm",
+  "order_summary": "Chi tiết",
+  "reservation_fee": "Phí giữ chỗ hẹn hò",
+  "service_coordination": "Điều phối dịch vụ",
+  "included": "Đã bao gồm",
+  "total_due": "Tổng cộng",
+  "complete_reservation": "Hoàn tất đặt chỗ",
+  "membership_confirmed_redirecting": "ĐÃ XÁC NHẬN THÀNH VIÊN. ĐANG CHUYỂN HƯỚNG...",
+  "meeting_confirmed_redirecting": "ĐÃ XÁC NHẬN ĐẶT CHỖ. ĐANG CHUYỂN HƯỚNG...",
+  "failed": "Thanh toán thất bại",
+  "unsuccessful_error": "Giao dịch không thành công (Mã lỗi: {{code}}). Vui lòng thử lại hoặc chọn phương thức thanh toán khác.",
+  "methods": {
+    "payos": {
+      "label": "PayOS",
+      "subtitle": ""
+    },
+    "card": {
+      "label": "Thẻ Tín dụng , Ghi nợ",
+      "subtitle": "Visa, Mastercard, AMEX"
+    },
+    "apple": {
+      "label": "Apple Pay",
+      "subtitle": "Thanh toán một chạm an toàn"
+    },
+    "wallet": {
+      "label": "Ví điện tử",
+      "subtitle": "MoMo, Zalopay, PayPal"
+    }
+  },
+  "benefits": {
+    "verified": {
+      "title": "Cộng đồng Tin cậy",
+      "text": "Nơi tụ hội của những người dùng thực thụ và có cùng tần số."
+    },
+    "matching": {
+      "title": "Ghép đôi Chọn lọc",
+      "text": "Gợi ý cá nhân hóa dựa trên dữ liệu khảo sát chuyên sâu của bạn."
+    },
+    "experiences": {
+      "title": "Đội ngũ Chuyên nghiệp",
+      "text": "Bàn tiệc được đặt sẵn tại những quán cà phê lãng mạn & ẩn mình nhất thành phố."
+    },
+    "support": {
+      "title": "Hỗ trợ Ưu tiên",
+      "text": "Hỗ trợ trực tiếp từ quản gia cho các vấn đề hậu cần buổi hẹn."
+    }
+  },
+  "inclusions": {
+    "environment": "Không gian an toàn & ấm cúng",
+    "table": "Bàn riêng dành cho hai người",
+    "facilitation": "Hỗ trợ giới thiệu từ nhân viên"
+  },
+  "errors": {
+    "not_ready": "Hồ sơ ghép đôi chưa sẵn sàng để thanh toán. Vui lòng quay lại sau.",
+    "submit_failed": "Không thể xác nhận thanh toán giả lập.",
+    "general_error": "Không thể thực hiện thanh toán vào lúc này."
+  }
+}

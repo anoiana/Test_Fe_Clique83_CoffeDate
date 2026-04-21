@@ -1,0 +1,15 @@
+{
+  "status": "Lịch hẹn hoàn tất",
+  "title": "ĐÃ GHI NHẬN <1>LỊCH HẸN!</1>",
+  "subtitle": "Tuyệt vời! Thời gian của bạn đã được lưu lại một cách bảo mật. Hệ thống đang đợi <1>đối phương</1> hoàn tất lựa chọn của họ.",
+  "action": "XEM TIẾN ĐỘ CUỘC HẸN",
+  "footer": "ĐANG ĐỢI ĐỐI PHƯƠNG...",
+  "background_text": "THỜI GIAN",
+  "location": {
+    "status": "Địa điểm hoàn tất",
+    "title": "ĐỊA ĐIỂM <1>ĐÃ ĐƯỢC GỬI!</1>",
+    "subtitle": "Lựa chọn của bạn đã được ghi nhận. Bây giờ hãy đợi <1>đối phương</1> cập nhật quán cafe yêu thích của họ.",
+    "footer": "ĐANG HOÀN TẤT CUỘC HẸN...",
+    "background_text": "ĐỊA ĐIỂM"
+  }
+}

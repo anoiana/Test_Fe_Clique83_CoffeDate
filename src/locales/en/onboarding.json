@@ -1,0 +1,490 @@
+{
+  "subtitles": {
+    "vitality": "VITALITY",
+    "expression": "EXPRESSION",
+    "time_of_birth": "TIME OF BIRTH",
+    "family": "FAMILY",
+    "openness": "OPENNESS",
+    "who_are_you": "WHO ARE YOU?",
+    "nutrition": "NUTRITION",
+    "fashion": "FASHION",
+    "lifestyle": "LIFESTYLE",
+    "knowledge": "KNOWLEDGE",
+    "security_first": "SECURITY FIRST",
+    "feedback": "FEEDBACK",
+    "future": "FUTURE",
+    "identity": "IDENTITY",
+    "full_view": "FULL VIEW",
+    "about_you": "ABOUT YOU",
+    "roots": "ROOTS",
+    "verification": "VERIFICATION",
+    "attraction": "ATTRACTION",
+    "profession": "PROFESSION",
+    "professional_network": "PROFESSIONAL NETWORK",
+    "geography": "GEOGRAPHY",
+    "status": "STATUS",
+    "personality": "PERSONALITY",
+    "stay_authentic": "STAY AUTHENTIC",
+    "origin": "ORIGIN",
+    "beliefs": "BELIEFS",
+    "appearance": "APPEARANCE",
+    "spirituality": "SPIRITUALITY",
+    "habits": "HABITS",
+    "connect_with_us": "CONNECT WITH US",
+    "preference": "PREFERENCE",
+    "aesthetic": "AESTHETIC",
+    "career": "CAREER",
+    "authority": "AUTHORITY"
+  },
+  "activity": {
+    "title": "How active are you?",
+    "options": {
+      "regular": "Workout regularly",
+      "sometimes": "Workout sometimes",
+      "rarely": "Rarely workout"
+    }
+  },
+  "bio": {
+    "title": "Describe yourself",
+    "description": "A short quote or something about yourself. This is your first impression. Max {{wordLimit}} words.",
+    "placeholder": "Write your heart out...",
+    "words_limit": "/ {{wordLimit}} WORDS"
+  },
+  "birthdate": {
+    "title": "Your Birthdate",
+    "description": "You must be at least 21 years old to join Clique."
+  },
+  "body_type": {
+    "title": "Describe your body type?",
+    "description": "Choose the closest answer that represents you.",
+    "options": {
+      "slim": "Slim",
+      "athletic": "Athletic",
+      "average": "Average",
+      "slightly_overweight": "Slightly overweight",
+      "overweight": "Overweight"
+    }
+  },
+  "children": {
+    "title": "Do you have children?",
+    "options": {
+      "yes": "Yes",
+      "no": "No",
+      "none_and_no_plans": "No, I don't want kids"
+    }
+  },
+  "date_kids": {
+    "title": "Can you date someone with kids?",
+    "options": {
+      "yes": "Yes, I can date someone with kids",
+      "no_kids": "No, I prefer to date people without kids",
+      "child_free": "No, I only date people who prefer child-free life"
+    }
+  },
+  "definition": {
+    "title": "You defined yourself as...",
+    "options": {
+      "vn_long": "Vietnamese living in Vietnam long-term",
+      "vn_returned": "Vietnamese, lived , studied abroad, returned to Vietnam",
+      "vn_abroad_returning": "Vietnamese living abroad, returning to Vietnam",
+      "vn_overseas": "Overseas Vietnamese (Viet Kieu) living abroad",
+      "vn_overseas_vietnam": "Overseas Vietnamese (Viet Kieu) living in Vietnam",
+      "foreigner_settled": "Foreigner living and settled down in Vietnam",
+      "foreigner_short_term": "Foreigner living short-term in Vietnam"
+    }
+  },
+  "diet": {
+    "title": "Do you follow a specific diet?",
+    "options": {
+      "omnivore": "Omnivores",
+      "omnivore_sub": "Eat anything, no specific diet",
+      "vegan": "Vegan , vegetarian",
+      "vegan_sub": "Plant-based lifestyle"
+    }
+  },
+  "dressing_style": {
+    "title": "How would you describe your dressing style?",
+    "description": "Choose the answer that best matches you.",
+    "options": {
+      "sophisticated": "Sophisticated",
+      "casual": "Casual",
+      "trendy": "Trendy",
+      "classical": "Classical",
+      "business": "Business",
+      "sporty": "Sporty"
+    }
+  },
+  "drink": {
+    "title": "How often do you drink?",
+    "options": {
+      "often": "Often",
+      "socially": "Sometimes , socially",
+      "no": "I don't drink alcohol"
+    }
+  },
+  "education": {
+    "title": "What is your highest education?",
+    "options": {
+      "highschool": "High School",
+      "associate": "Associate Degree",
+      "bachelor": "Bachelor's Degree",
+      "master": "Master's Degree",
+      "phd": "PhD",
+      "other": "Other"
+    },
+    "other_placeholder": "Specify education level..."
+  },
+  "email": {
+    "title": "What is your email?",
+    "description": "We'll use this to keep your account safe.",
+    "placeholder": "Enter your email"
+  },
+  "extra_message": {
+    "title": "Anything else you want to share with Clique?",
+    "description": "Feel free to tell us anything. We're here to listen.",
+    "finish_label": "Finish Onboarding",
+    "placeholder": "Type your message here...",
+    "footer": "Click finish below to complete your profile"
+  },
+  "family_plan": {
+    "title": "When do you plan to start a family?",
+    "options": {
+      "asap": "As soon as possible (under a year)",
+      "not_fast": "Not too fast (1-3 years)",
+      "stable": "After a stable relationship is established",
+      "not_sure": "I'm not sure yet",
+      "no_marriage": "I don't believe in marriage"
+    }
+  },
+  "final_word": {
+    "title": "Select 3 words that best describe you",
+    "perfect": "Perfect! Ready to go",
+    "choose_more": "Choose {{count}} more",
+    "options": {
+      "sociable": "Sociable",
+      "quiet": "Quiet",
+      "funny": "Funny",
+      "interesting": "Interesting",
+      "curious": "Curious",
+      "kind": "Kind",
+      "sincere": "Sincere",
+      "passionate": "Passionate",
+      "hardworking": "Hardworking",
+      "strong": "Strong",
+      "confident": "Confident",
+      "sensitive": "Sensitive",
+      "creative": "Creative",
+      "understanding": "Understanding",
+      "optimistic": "Optimistic",
+      "introvert": "Introvert"
+    }
+  },
+  "full_body_photo": {
+    "title": "Full Body Photo",
+    "description": "Show us your style! Upload a nice full body photo of yourself.",
+    "preview_alt": "Full body preview",
+    "preview_text": "A high quality photo that represents you well."
+  },
+  "gender": {
+    "title": "What is your gender?",
+    "description": "Help us find the best matches for you.",
+    "options": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    }
+  },
+  "hometown": {
+    "title": "Where is your homeland?",
+    "description": "In case you want to match with someone from the same hometown. If not, select your current location.",
+    "same_as_current": "Same as current: {{location}}",
+    "search_placeholder": "Search province..."
+  },
+  "id_upload": {
+    "title": "Identity Verification",
+    "description": "Upload a photo of your ID to verify your identity. This is required for safety.",
+    "drop_text": "Drop your ID photo here",
+    "browse_text": "or click to browse files",
+    "finish_hint": "Click button below to finish"
+  },
+  "impression": {
+    "title": "When getting to know someone, what usually impresses you the most?",
+    "options": {
+      "communication": "How they communicate and listen",
+      "appearance": "Their appearance or style",
+      "knowledge": "Their knowledge and understanding",
+      "values": "Their life values or goals",
+      "humor": "Their humor and playfulness"
+    }
+  },
+  "job_title": {
+    "title": "Your Title at work",
+    "description": "E.g. Creative Director, Software Engineer, Business Owner.",
+    "placeholder": "Enter your job title..."
+  },
+  "linkedin": {
+    "title": "Your LinkedIn",
+    "description": "Share your professional profile to help us verify your background.",
+    "placeholder": "https://linkedin.com/in/yourprofile"
+  },
+  "location": {
+    "title": "Your current location",
+    "search_placeholder": "Search province..."
+  },
+  "marital_status": {
+    "title": "Marital Status",
+    "options": {
+      "single": "Single",
+      "divorced": "Divorced"
+    }
+  },
+  "mbti": {
+    "title": "What's your MBTI?",
+    "dont_know": "Don't know your type?",
+    "take_test": "Take the test here",
+    "skip": "I'd rather skip"
+  },
+  "name": {
+    "title": "What is your name?",
+    "description": "This is how you'll appear on Clique.",
+    "placeholder": "Enter your name"
+  },
+  "nationality": {
+    "title": "Your nationality",
+    "placeholder": "Please specify your nationality...",
+    "options": {
+      "VN": "Vietnam",
+      "US": "USA",
+      "AU": "Australia",
+      "CA": "Canada",
+      "FR": "French",
+      "DE": "Germany",
+      "OTHER": "Other"
+    }
+  },
+  "multi_selection": {
+    "description": "You can choose multiple options",
+    "specify_placeholder": "Please specify..."
+  },
+  "occultism": {
+    "title": "Do you consider occultism or fortune telling?",
+    "options": {
+      "tuvi": "Tử Vi (Vietnamese or Eastern)",
+      "numerology": "Numerology",
+      "sun_sign": "Zodiac (Sun Sign only)",
+      "astrology": "Astrology (Full Natal Chart)",
+      "none": "I'm not interested, I don't believe",
+      "other": "Other"
+    }
+  },
+  "profile_photo": {
+    "title": "Profile Photo",
+    "description": "A nice, clear photo of your face taken recently (only you in the photo).",
+    "max_size": "Max size: 100 MB. Only you should be in the photo.",
+    "preview_alt": "Profile preview"
+  },
+  "religion": {
+    "title": "What is your religion?",
+    "options": {
+      "atheism": "Atheism",
+      "christianity": "Christianity",
+      "catholicism": "Roman Catholicism",
+      "buddhism": "Buddhism",
+      "islam": "Islam",
+      "hoahao": "Hoa Hao Buddhism",
+      "caodai": "Cao Dai",
+      "other": "Other"
+    }
+  },
+  "salary": {
+    "title": "Monthly Salary",
+    "description": "Clique will never share this information with your matches.",
+    "options": {
+      "below_20": "Below 20 mil",
+      "20_30": "20 - 30 mil",
+      "30_50": "30 - 50 mil",
+      "50_80": "50 - 80 mil",
+      "above_80": "Above 80 mil"
+    }
+  },
+  "smoke": {
+    "title": "Do you smoke?",
+    "options": {
+      "yes": "Yes",
+      "socially": "Socially",
+      "no": "No"
+    }
+  },
+  "social_link": {
+    "title": "What is your Facebook or Instagram?",
+    "description": "Give us your full profile link, we can't find you just by your nickname.",
+    "placeholder": "https://facebook.com/yourprofile"
+  },
+  "target_gender": {
+    "title": "Who do you want to date?",
+    "description": "This choice helps us find the best match for your expectations.",
+    "options": {
+      "men": "Men",
+      "women": "Women",
+      "other": "Other"
+    },
+    "other_placeholder": "Please specify..."
+  },
+  "visual_archetype": {
+    "title": "Choose the picture you like the most"
+  },
+  "work_field": {
+    "title": "What field do you work in?",
+    "placeholder": "Tell us more about your work...",
+    "options": {
+      "it": "Information Technology",
+      "mkt": "MKT & Public Relations",
+      "finance": "Finance & Banking",
+      "accounting": "Accounting - Audit",
+      "education": "Education - Training",
+      "medical": "Medical - Health care",
+      "travel": "Travel - Restaurant - Hotel",
+      "media": "Media - Entertainment",
+      "ecommerce": "E-commerce",
+      "production": "Production - Heavy industry",
+      "construction": "Construction - Architecture",
+      "sales": "Sales - Retail",
+      "hr": "Human Resources",
+      "law": "Law & Legal",
+      "art": "Art - Creativity",
+      "startup": "Startup , Freelancer",
+      "other": "Other"
+    }
+  },
+  "work_position": {
+    "title": "Work Position",
+    "options": {
+      "c_level": {
+        "label": "C-level Management",
+        "sub": "CEO, CFO, COO or Business Owner"
+      },
+      "mid_manager": {
+        "label": "Mid Level Manager",
+        "sub": "Department Head"
+      },
+      "team_leader": {
+        "label": "Team Leader",
+        "sub": "Level 1 Manager"
+      },
+      "staff": {
+        "label": "Staff",
+        "sub": "Individual Contributor"
+      },
+      "other": {
+        "label": "Other",
+        "sub": "Specialized or diverse roles"
+      }
+    }
+  },
+  "number_input": {
+    "placeholder": "Enter value..."
+  },
+  "welcome_round1": {
+    "congrats": "CONGRATULATIONS!",
+    "joined_clique": "You have officially joined the Clique83 community.",
+    "intro_title": "Begin Your Journey of Authentic Connection",
+    "intro_desc": "To find your perfect 'match', we'll start with Round 1 — The Basic Intake Survey.",
+    "value_prop": "This information helps Clique build your most authentic portrait, ensuring every connection starts with true understanding.",
+    "cta": "GET STARTED"
+  },
+  "r1_completion": {
+    "title": "CONGRATS, YOUR PROFILE IS READY!",
+    "subtitle": "",
+    "up_next": "UP NEXT",
+    "next_topic": "IN-DEPTH SURVEY",
+    "next_desc": "",
+    "next_desc2": "",
+    "start_continue": "CONTINUE",
+    "phase_02": "PHASE 02",
+    "r2_title": "Matching Survey",
+    "r2_headline": "UNDERSTANDING HOW YOU LOVE",
+    "r2_desc1": "This part helps us understand who you may fit with — from lifestyle and priorities to how you connect in love.",
+    "r2_desc2": "",
+    "start_r2": "Let's Go"
+  },
+  "community_guidelines": {
+    "title": "Welcome to",
+    "brand": "Coffee Date by Clique83",
+    "rules": {
+      "real_profile": {
+        "title": "1. Real Profile",
+        "desc": "Use your real age, photos, and bio so Clique can find the right match for you."
+      },
+      "screening": {
+        "title": "2. Member Screening",
+        "desc": "Only approved profiles are allowed into the system."
+      },
+      "serious": {
+        "title": "3. Serious Intent",
+        "desc": "Only paid profiles can start matching."
+      },
+      "time_is_gold": {
+        "title": "4. Time is Gold",
+        "desc": "No chat before the date to avoid wasting time."
+      },
+      "real_life": {
+        "title": "5. Real-life Meetings",
+        "desc": "A match is aimed at a real date, not endless chatting."
+      },
+      "civil_behavior": {
+        "title": "6. Civil Behavior",
+        "desc": "Respect others as you wish to be respected at the meeting."
+      },
+      "be_proactive": {
+        "title": "7. Be Proactive",
+        "desc": "Always report bad behavior after a date."
+      }
+    },
+    "agreement_prefix": "By continuing, you agree to our",
+    "policy_link": "Service Policy & Terms",
+    "agree_btn": "I Agree"
+  },
+  "post_upload": {
+    "step1": {
+      "title": "CONGRATULATIONS, YOU HAVE COMPLETED THE IN-DEPTH SURVEY.",
+      "how_it_works": "HOW COFFEE DATE WORKS",
+      "rules": [
+        "Profile is reviewed before entering the system",
+        "Membership is 1,999k / year",
+        "Receive one most compatible match at a time",
+        "Both want to meet → Book a date (599k / session)",
+        "No circular chatting — meet directly"
+      ],
+      "philosophy": "Less, but better",
+      "cta": "Free Profile Review"
+    },
+    "step2": {
+      "pending_title": "Profile Under Review",
+      "pending_text": "Your profile is being reviewed by Clique within the next 1, 2, or 3 days. Remember to check the results here or via email.",
+      "vetting_status": "Vetting in progress",
+      "refresh_btn": "Refresh Page"
+    },
+    "step3": {
+      "approved_title": "Congratulations, your profile has been approved!",
+      "social_proof": "More than 17,000 have joined the Clique system. Are you ready?",
+      "cta": "I'm Ready"
+    },
+    "step4": {
+      "pricing_intro": "Paying helps filter out those who are not ready, so you don't have to go on meaningless dates.",
+      "pricing_details": {
+        "title": "Coffee Date Costs:",
+        "membership": "1,999k / year matching fee with curated members",
+        "per_session": "599k / session to ensure both truly want to meet"
+      },
+      "value_prop": {
+        "title": "You don't have to think too much",
+        "points": [
+          "Clique selects the right person",
+          "Clique arranges time & location",
+          "You just decide: to meet or not"
+        ]
+      },
+      "cta": "Continue"
+    }
+  }
+}

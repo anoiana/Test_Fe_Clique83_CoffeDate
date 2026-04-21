@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(npx eslint:*)",
+      "Bash(npx vite:*)",
+      "Bash(npm:*)",
+      "Bash(git:*)",
+      "Edit",
+      "Write",
+      "Read"
+    ]
+  }
+}

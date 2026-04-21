@@ -1,0 +1,61 @@
+{
+  "premium_service": "Premium Service",
+  "secure_your_date": "Confirm Reservation",
+  "final_step": "Curating exceptional connections",
+  "order_summary": "Order Summary",
+  "reservation_fee": "Date Reservation Fee",
+  "service_coordination": "Service Coordination",
+  "included": "Included",
+  "total_due": "Total Due",
+  "complete_reservation": "Complete Reservation",
+  "membership_confirmed_redirecting": "MEMBERSHIP CONFIRMED. REDIRECTING...",
+  "meeting_confirmed_redirecting": "RESERVATION CONFIRMED. REDIRECTING...",
+  "failed": "Payment Failed",
+  "unsuccessful_error": "Transaction was unsuccessful (Error Code: {{code}}). Please try again or select another payment method.",
+  "methods": {
+    "payos": {
+      "label": "PayOS",
+      "subtitle": ""
+    },
+    "card": {
+      "label": "Credit / Debit Card",
+      "subtitle": "Visa, Mastercard, AMEX"
+    },
+    "apple": {
+      "label": "Apple Pay",
+      "subtitle": "Secure one-tap payment"
+    },
+    "wallet": {
+      "label": "Digital Wallet",
+      "subtitle": "MoMo, Zalopay, PayPal"
+    }
+  },
+  "benefits": {
+    "verified": {
+      "title": "Trusted Community",
+      "text": "A circle of vetted and high-caliber people."
+    },
+    "matching": {
+      "title": "Selective Matching",
+      "text": "Personalized introductions based on your survey data."
+    },
+    "experiences": {
+      "title": "Professional Team",
+      "text": "Expert assistance to ensure your refined experience."
+    },
+    "support": {
+      "title": "Priority Support",
+      "text": "Direct concierge assistance for your date logistics."
+    }
+  },
+  "inclusions": {
+    "environment": "Curated safe & cozy environment",
+    "table": "Reserved table for two",
+    "facilitation": "Introduction facilitation by staff"
+  },
+  "errors": {
+    "not_ready": "Match profile is not ready for payment. Please return later.",
+    "submit_failed": "Failed to confirm mock payment.",
+    "general_error": "Could not process payment at this time."
+  }
+}

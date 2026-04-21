@@ -1,0 +1,15 @@
+{
+  "status": "Schedule Complete",
+  "title": "SENT <1>SUCCESSFULLY!</1>",
+  "subtitle": "Great! You have finished scheduling. Now please be patient and wait for <1>your match</1> to update their availability.",
+  "action": "VIEW MEETING STATUS",
+  "footer": "AWAITING MATCH...",
+  "background_text": "TIME",
+  "location": {
+    "status": "Venue selection complete",
+    "title": "VENUE <1>SENT!</1>",
+    "subtitle": "Your selections have been recorded. System is waiting for <1>your match</1> to update their favorites.",
+    "footer": "FINALIZING DATE...",
+    "background_text": "VENUE"
+  }
+}

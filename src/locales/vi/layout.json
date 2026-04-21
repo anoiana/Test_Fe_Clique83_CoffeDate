@@ -1,0 +1,16 @@
+{
+  "view_process": "Xem quy trình",
+  "switch_to_en": "Switch to English",
+  "switch_to_vi": "Chuyển sang Tiếng Việt",
+  "settings": "Cài đặt",
+  "logout": "Đăng xuất",
+  "help": "Trợ giúp",
+  "profile_review": "Xem lại hồ sơ",
+  "member_status": "Trạng thái thành viên",
+  "matching_pool": "Chế độ ghép đôi",
+  "matching_pool_active": "HOẠT ĐỘNG",
+  "matching_pool_paused": "TẠM DỪNG",
+  "matching_pool_active_desc": "Đang tìm kiếm đối tượng cho bạn",
+  "matching_pool_paused_desc": "Tạm dừng nhận yêu cầu mới",
+  "language": "Ngôn ngữ"
+}

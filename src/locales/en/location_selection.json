@@ -1,0 +1,14 @@
+{
+  "title": "Select Venues",
+  "subtitle": "Pick 5 favorite cafes for your date",
+  "info": "Clique will automatically match a common location based on your and your partner's preferences.",
+  "selected": "Selected",
+  "submit": "Confirm 5 Venues",
+  "max_error": "You can select up to 5 locations.",
+  "min_error": "Please select at least 5 preferred cafes.",
+  "fetch_error": "Failed to load locations.",
+  "submit_success": "LOCATION PREFERENCES SAVED!",
+  "submitting": "SUBMITTING YOUR CHOICES",
+  "error_submitting": "Error submitting.",
+  "loading_locations": "LOADING PARTNER CAFES"
+}

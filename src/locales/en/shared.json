@@ -1,0 +1,36 @@
+{
+  "progress": "P R O G R E S S",
+  "steps": {
+    "pay_fee": "Pay Fee",
+    "pick_date": "Pick Date",
+    "go": "Go!"
+  },
+  "ready": "READY",
+  "loading": {
+    "preparing": "PREPARING YOUR EXPERIENCE",
+    "connecting_google": "CONNECTING WITH GOOGLE...",
+    "initiating": "INITIATING CONNECTION",
+    "processing_decision": "PROCESSING YOUR DECISION"
+  },
+  "error": {
+    "system_error": "SYSTEM ERROR",
+    "unexpected": "An unexpected error occurred."
+  },
+  "success": {
+    "title": "SUCCESS",
+    "default_message": "Operation completed successfully."
+  },
+  "back_aria": "Go back",
+  "settings": {
+    "title": "Settings",
+    "services": "Services",
+    "matching": "Matching Pool",
+    "matching_desc_on": "Actively looking for matches.",
+    "matching_desc_off": "Paused receiving new requests.",
+    "configuration": "Configuration",
+    "language": "Language",
+    "notifications": "Notifications",
+    "security": "Security",
+    "logout": "Logout"
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "subtitles": {
+    "vitality": "NĂNG LƯỢNG",
+    "expression": "BẢN THÂN",
+    "time_of_birth": "NGÀY SINH",
+    "family": "GIA ĐÌNH",
+    "openness": "CỞI MỞ",
+    "who_are_you": "BẠN LÀ AI?",
+    "nutrition": "DINH DƯỠNG",
+    "fashion": "THỜI TRANG",
+    "lifestyle": "LỐI SỐNG",
+    "knowledge": "KIẾN THỨC",
+    "security_first": "BẢO MẬT",
+    "feedback": "GÓP Ý",
+    "future": "TƯƠNG LAI",
+    "identity": "BẢN THÂN",
+    "full_view": "TOÀN THÂN",
+    "about_you": "VỀ BẠN",
+    "roots": "QUÊ QUÁN",
+    "verification": "XÁC MINH",
+    "attraction": "SỨC HÚT",
+    "profession": "NGHỀ NGHIỆP",
+    "professional_network": "MẠNG LƯỚI CHUYÊN NGHIỆP",
+    "geography": "VỊ TRÍ",
+    "status": "TÌNH TRẠNG",
+    "personality": "TÍNH CÁCH",
+    "stay_authentic": "SỐNG THẬT",
+    "origin": "NGUỒN GỐC",
+    "beliefs": "NIỀM TIN",
+    "appearance": "DIỆN MẠO",
+    "spirituality": "TÂM LINH",
+    "habits": "THÓI QUEN",
+    "connect_with_us": "KẾT NỐI VỚI CHÚNG TÔI",
+    "preference": "SỞ THÍCH",
+    "aesthetic": "THẨM MỸ",
+    "career": "SỰ NGHIỆP",
+    "authority": "VỊ THẾ"
+  },
+  "activity": {
+    "title": "Mức độ vận động của bạn?",
+    "options": {
+      "regular": "Tập thể dục thường xuyên",
+      "sometimes": "Thỉnh thoảng tập thể dục",
+      "rarely": "Hiếm khi tập thể dục"
+    }
+  },
+  "bio": {
+    "title": "Mô tả về bạn",
+    "description": "Một câu trích dẫn ngắn hoặc điều gì đó về bản thân bạn. Đây là ấn tượng đầu tiên. Tối đa {{wordLimit}} từ.",
+    "placeholder": "Viết từ trái tim bạn...",
+    "words_limit": "/ {{wordLimit}} TỪ"
+  },
+  "birthdate": {
+    "title": "Ngày sinh của bạn",
+    "description": "Bạn phải từ 21 tuổi trở lên để tham gia Clique."
+  },
+  "body_type": {
+    "title": "Mô tả kiểu cơ thể của bạn?",
+    "options": {
+      "slim": "Mảnh khảnh",
+      "athletic": "Thể thao",
+      "average": "Trung bình",
+      "slightly_overweight": "Hơi thừa cân",
+      "overweight": "Thừa cân"
+    }
+  },
+  "children": {
+    "title": "Bạn có con chưa?",
+    "options": {
+      "yes": "Có",
+      "no": "Chưa",
+      "none_and_no_plans": "Chưa và không có ý định"
+    }
+  },
+  "date_kids": {
+    "title": "Bạn có thể hẹn hò với người đã có con không?",
+    "options": {
+      "yes": "Có, tôi có thể",
+      "no_kids": "Không, tôi muốn hẹn hò với người chưa có con",
+      "child_free": "Không, tôi chỉ hẹn hò với người không muốn có con"
+    }
+  },
+  "definition": {
+    "title": "Bạn tự định nghĩa mình là...",
+    "options": {
+      "vn_long": "Người Việt định cư lâu dài tại Việt Nam",
+      "vn_returned": "Người Việt từng sống , học tập ở nước ngoài, đã về Việt Nam",
+      "vn_abroad_returning": "Người Việt sống ở nước ngoài, sắp về Việt Nam",
+      "vn_overseas": "Việt Kiều sống ở nước ngoài",
+      "vn_overseas_vietnam": "Việt Kiều sống ở Việt Nam",
+      "foreigner_settled": "Người nước ngoài sống và định cư tại Việt Nam",
+      "foreigner_short_term": "Người nước ngoài sống ngắn hạn tại Việt Nam"
+    }
+  },
+  "diet": {
+    "title": "Bạn có theo chế độ ăn uống cụ thể nào không?",
+    "options": {
+      "omnivore": "Ăn tạp",
+      "omnivore_sub": "Ăn bất cứ thứ gì, không có chế độ ăn cụ thể",
+      "vegan": "Ăn chay",
+      "vegan_sub": "Lối sống dựa trên thực vật"
+    }
+  },
+  "dressing_style": {
+    "title": "Bạn mô tả phong cách ăn mặc của mình như thế nào?",
+    "options": {
+      "sophisticated": "Tinh tế",
+      "casual": "Thoải mái",
+      "trendy": "Hợp thời",
+      "classical": "Cổ điển",
+      "business": "Công sở",
+      "sporty": "Thể thao"
+    }
+  },
+  "drink": {
+    "title": "Bạn có thường xuyên uống đồ có cồn không?",
+    "options": {
+      "often": "Thường xuyên",
+      "socially": "Thỉnh thoảng, Xã giao",
+      "no": "Tôi không uống rượu bia"
+    }
+  },
+  "education": {
+    "title": "Trình độ học vấn cao nhất của bạn là gì?",
+    "options": {
+      "highschool": "Trung học phổ thông",
+      "associate": "Cao đẳng",
+      "bachelor": "Đại học, Cử nhân",
+      "master": "Thạc sĩ",
+      "phd": "Tiến sĩ",
+      "other": "Khác"
+    },
+    "other_placeholder": "Cụ thể trình độ học vấn..."
+  },
+  "email": {
+    "title": "Email của bạn là gì?",
+    "description": "Chúng tôi sẽ dùng email này để bảo vệ tài khoản của bạn.",
+    "placeholder": "Nhập email của bạn"
+  },
+  "extra_message": {
+    "title": "Bạn có muốn chia sẻ điều gì khác với Clique không?",
+    "description": "Hãy thoải mái chia sẻ với chúng tôi. Chúng tôi luôn lắng nghe.",
+    "finish_label": "Hoàn tất đăng ký",
+    "placeholder": "Nhập tin nhắn của bạn tại đây...",
+    "footer": "Nhấn hoàn tất bên dưới để hoàn thiện hồ sơ của bạn"
+  },
+  "family_plan": {
+    "title": "Bạn dự định khi nào sẽ lập gia đình?",
+    "options": {
+      "asap": "Càng sớm càng tốt (dưới 1 năm)",
+      "not_fast": "Không quá nhanh (1-3 năm)",
+      "stable": "Sau khi mối quan hệ đã ổn định",
+      "not_sure": "Tôi chưa chắc chắn",
+      "no_marriage": "Tôi không tin vào hôn nhân"
+    }
+  },
+  "final_word": {
+    "title": "Chọn 3 từ mô tả đúng nhất về bạn",
+    "perfect": "Tuyệt vời! Sẵn sàng thôi",
+    "choose_more": "Chọn thêm {{count}} từ",
+    "options": {
+      "sociable": "Hòa đồng",
+      "quiet": "Điềm đạm",
+      "funny": "Vui tính",
+      "interesting": "Thú vị",
+      "curious": "Ham học hỏi",
+      "kind": "Tử tế",
+      "sincere": "Chân thành",
+      "passionate": "Nhiệt huyết",
+      "hardworking": "Chăm chỉ",
+      "strong": "Mạnh mẽ",
+      "confident": "Tự tin",
+      "sensitive": "Nhạy cảm",
+      "creative": "Sáng tạo",
+      "understanding": "Thấu hiểu",
+      "optimistic": "Lạc quan",
+      "introvert": "Hướng nội"
+    }
+  },
+  "full_body_photo": {
+    "title": "Ảnh toàn thân",
+    "description": "Hãy cho chúng tôi thấy phong cách của bạn! Tải lên một bức ảnh toàn thân thật đẹp.",
+    "preview_alt": "Xem trước ảnh toàn thân",
+    "preview_text": "Một bức ảnh chất lượng cao đại diện tốt cho bạn."
+  },
+  "gender": {
+    "title": "Giới tính của bạn là gì?",
+    "options": {
+      "male": "Nam",
+      "female": "Nữ",
+      "other": "Khác"
+    }
+  },
+  "hometown": {
+    "title": "Quê quán của bạn ở đâu?",
+    "description": "Trong trường hợp bạn muốn kết đôi với người cùng quê. Nếu không, hãy chọn vị trí hiện tại của bạn.",
+    "same_as_current": "Giống vị trí hiện tại: {{location}}",
+    "search_placeholder": "Tìm kiếm tỉnh thành..."
+  },
+  "id_upload": {
+    "title": "Xác minh danh tính",
+    "description": "Tải lên ảnh ID của bạn để xác minh danh tính. Đây là yêu cầu bắt buộc để đảm bảo an toàn.",
+    "drop_text": "Thả ảnh ID của bạn vào đây",
+    "browse_text": "hoặc nhấn để chọn tệp",
+    "finish_hint": "Nhấn nút bên dưới để hoàn tất"
+  },
+  "impression": {
+    "title": "Khi tìm hiểu một ai đó, điều gì thường gây ấn tượng với bạn nhất?",
+    "options": {
+      "communication": "Cách họ giao tiếp và lắng nghe",
+      "appearance": "Ngoại hình hoặc phong cách của họ",
+      "knowledge": "Kiến thức và sự hiểu biết của họ",
+      "values": "Giá trị sống hoặc mục tiêu của họ",
+      "humor": "Sự hài hước và vui vẻ của họ"
+    }
+  },
+  "job_title": {
+    "title": "Chức danh công việc của bạn",
+    "description": "Ví dụ: Giám đốc sáng tạo, Kỹ sư phần mềm, Chủ doanh nghiệp.",
+    "placeholder": "Nhập chức danh công việc của bạn..."
+  },
+  "linkedin": {
+    "title": "LinkedIn của bạn",
+    "description": "Chia sẻ hồ sơ chuyên nghiệp để giúp chúng tôi xác minh lý lịch của bạn.",
+    "placeholder": "https://linkedin.com/in/yourprofile"
+  },
+  "location": {
+    "title": "Vị trí hiện tại của bạn",
+    "search_placeholder": "Tìm kiếm tỉnh thành..."
+  },
+  "marital_status": {
+    "title": "Tình trạng hôn nhân",
+    "options": {
+      "single": "Độc thân",
+      "divorced": "Đã ly hôn"
+    }
+  },
+  "mbti": {
+    "title": "MBTI của bạn là gì?",
+    "dont_know": "Bạn không biết nhóm tính cách của mình?",
+    "take_test": "Làm bài kiểm tra tại đây",
+    "skip": "Tôi muốn bỏ qua"
+  },
+  "name": {
+    "title": "Tên của bạn là gì?",
+    "description": "Đây là tên sẽ hiển thị trên Clique.",
+    "placeholder": "Nhập tên của bạn"
+  },
+  "nationality": {
+    "title": "Quốc tịch của bạn",
+    "placeholder": "Vui lòng cho biết quốc tịch của bạn...",
+    "options": {
+      "VN": "Việt Nam",
+      "US": "Mỹ",
+      "AU": "Úc",
+      "CA": "Canada",
+      "FR": "Pháp",
+      "DE": "Đức",
+      "OTHER": "Khác"
+    }
+  },
+  "multi_selection": {
+    "description": "Bạn có thể chọn nhiều phương án",
+    "choose_all": "Hãy chọn tất cả những gì phù hợp với bạn",
+    "specify_placeholder": "Vui lòng ghi rõ..."
+  },
+  "occultism": {
+    "title": "Bạn có quan tâm đến huyền học hay xem bói không?",
+    "options": {
+      "tuvi": "Tử Vi (Việt Nam hoặc Phương Đông)",
+      "numerology": "Thần số học (Numerology)",
+      "sun_sign": "Cung hoàng đạo (Chỉ cung Mặt Trời)",
+      "astrology": "Chiêm tinh học (Bản đồ sao đầy đủ)",
+      "none": "Tôi không quan tâm, tôi không tin",
+      "other": "Khác"
+    }
+  },
+  "profile_photo": {
+    "title": "Ảnh đại diện",
+    "description": "Một bức ảnh đẹp, rõ mặt được chụp gần đây (chỉ có bạn trong ảnh).",
+    "max_size": "Dung lượng tối đa: 100 MB. Chỉ nên có mình bạn trong ảnh.",
+    "preview_alt": "Xem trước ảnh đại diện"
+  },
+  "religion": {
+    "title": "Tôn giáo của bạn là gì?",
+    "options": {
+      "atheism": "Không tôn giáo",
+      "christianity": "Cơ đốc giáo",
+      "catholicism": "Công giáo Rôma",
+      "buddhism": "Phật giáo",
+      "islam": "Hồi giáo",
+      "hoahao": "Phật giáo Hòa Hảo",
+      "caodai": "Đạo Cao Đài",
+      "other": "Khác"
+    }
+  },
+  "salary": {
+    "title": "Thu nhập hàng tháng",
+    "description": "Clique sẽ không bao giờ chia sẻ thông tin này với đối tượng ghép đôi của bạn.",
+    "options": {
+      "below_20": "Dưới 20 triệu",
+      "20_30": "20 - 30 triệu",
+      "30_50": "30 - 50 triệu",
+      "50_80": "50 - 80 triệu",
+      "above_80": "Trên 80 triệu"
+    }
+  },
+  "smoke": {
+    "title": "Bạn có hút thuốc không?",
+    "options": {
+      "yes": "Có",
+      "socially": "Thỉnh thoảng, Xã giao",
+      "no": "Không"
+    }
+  },
+  "social_link": {
+    "title": "Facebook hoặc Instagram của bạn là gì?",
+    "description": "Vui lòng cung cấp link hồ sơ đầy đủ, chúng tôi không thể tìm thấy bạn chỉ qua biệt danh.",
+    "placeholder": "https://facebook.com/profile-cua-ban"
+  },
+  "target_gender": {
+    "title": "Bạn muốn hẹn hò với ai?",
+    "description": "Lựa chọn này giúp chúng mình tìm được đối tượng phù hợp nhất với mong muốn của bạn.",
+    "options": {
+      "men": "Nam",
+      "women": "Nữ",
+      "other": "Khác"
+    },
+    "other_placeholder": "Vui lòng ghi rõ..."
+  },
+  "visual_archetype": {
+    "title": "Chọn bức hình mà bạn thích nhất"
+  },
+  "work_field": {
+    "title": "Bạn đang làm việc trong lĩnh vực nào?",
+    "options": {
+      "it": "Công nghệ thông tin",
+      "mkt": "Marketing & Quan hệ công chúng",
+      "finance": "Tài chính & Ngân hàng",
+      "accounting": "Kế toán, Kiểm toán",
+      "education": "Giáo dục, Đào tạo",
+      "medical": "Y tế, Chăm sóc sức khỏe",
+      "travel": "Du lịch, Nhà hàng, Khách sạn",
+      "media": "Truyền thông, Giải trí",
+      "ecommerce": "Thương mại điện tử",
+      "production": "Sản xuất, Công nghiệp nặng",
+      "construction": "Xây dựng, Kiến trúc",
+      "sales": "Bán lẻ, Kinh doanh",
+      "hr": "Nhân sự",
+      "law": "Luật & Pháp lý",
+      "art": "Nghệ thuật - Sáng tạo",
+      "startup": "Khởi nghiệp , Tự do",
+      "other": "Khác"
+    }
+  },
+  "work_position": {
+    "title": "Vị trí công việc",
+    "options": {
+      "c_level": {
+        "label": "Quản lý cấp cao",
+        "sub": "CEO, CFO, COO hoặc Chủ doanh nghiệp"
+      },
+      "mid_manager": {
+        "label": "Quản lý cấp trung",
+        "sub": "Trưởng phòng"
+      },
+      "team_leader": {
+        "label": "Trưởng nhóm",
+        "sub": "Quản lý cấp 1"
+      },
+      "staff": {
+        "label": "Nhân viên",
+        "sub": "Chuyên viên"
+      },
+      "other": {
+        "label": "Khác",
+        "sub": "Các vai trò chuyên biệt hoặc đa dạng"
+      }
+    }
+  },
+  "number_input": {
+    "placeholder": "Nhập giá trị..."
+  },
+  "welcome_round1": {
+    "congrats": "CHÚC MỪNG!",
+    "joined_clique": "Bạn đã chính thức gia nhập cộng đồng Clique83.",
+    "intro_title": "Bắt đầu hành trình kết nối chân thực",
+    "intro_desc": "Để tìm thấy 'mảnh ghép' hoàn hảo, chúng ta sẽ bắt đầu với Round 1 — Khảo sát thông tin cơ bản.",
+    "cta": "BẮT ĐẦU NGAY"
+  },
+  "r1_completion": {
+    "title": "CHÚC MỪNG, BẠN ĐÃ TẠO HỒ SƠ THÀNH CÔNG!",
+    "subtitle": "",
+    "up_next": "TIẾP THEO",
+    "next_topic": "Khảo sát chuyên sâu",
+    "next_desc": "",
+    "next_desc2": "",
+    "start_continue": "TIẾP TỤC",
+    "phase_02": "GIAI ĐOẠN 02",
+    "r2_title": "Khảo sát ghép đôi",
+    "r2_headline": "HIỂU CÁCH BẠN YÊU",
+    "r2_desc1": "Giúp chúng ta nhìn rõ hơn về người sẽ phù hợp với bạn — từ lối sống, ưu tiên, đến cách bạn kết nối trong tình yêu.",
+    "r2_desc2": "",
+    "start_r2": "Bắt đầu"
+  },
+  "community_guidelines": {
+    "title": "Chào mừng bạn đến với",
+    "brand": "Coffee Date by Clique83",
+    "rules": {
+      "real_profile": {
+        "title": "1. Hồ sơ thật",
+        "desc": "Điền đúng tuổi, ảnh và tiểu sử của bạn để Clique ghép đúng người."
+      },
+      "screening": {
+        "title": "2. Sàng lọc thành viên",
+        "desc": "Chỉ hồ sơ được duyệt mới vào hệ thống."
+      },
+      "serious": {
+        "title": "3. Nghiêm túc",
+        "desc": "Chỉ hồ sơ đã trả phí mới bắt đầu được ghép đôi."
+      },
+      "time_is_gold": {
+        "title": "4. Thời gian là vàng",
+        "desc": "Không mở chat trước buổi hẹn, tránh tốn thời gian."
+      },
+      "real_life": {
+        "title": "5. Gặp ngoài đời",
+        "desc": "Đã match là hướng tới một buổi hẹn thật, không chat lòng vòng."
+      },
+      "civil_behavior": {
+        "title": "6. Cư xử văn minh",
+        "desc": "Tôn trọng người khác như cách bạn muốn được tôn trọng tại buổi gặp."
+      },
+      "be_proactive": {
+        "title": "7. Hãy chủ động",
+        "desc": "Sau buổi hẹn, luôn báo cáo hành vi xấu."
+      }
+    },
+    "agreement_prefix": "Bằng cách tiếp tục, bạn đồng ý với",
+    "policy_link": "Chính sách dịch vụ & điều khoản",
+    "agree_btn": "Tôi đồng ý"
+  },
+  "post_upload": {
+    "step1": {
+      "title": "Chúc mừng, bạn đã hoàn tất khảo sát chuyên sâu.",
+      "how_it_works": "Cách Coffee Date vận hành",
+      "rules": [
+        "Hồ sơ được duyệt trước khi vào hệ thống",
+        "Thành viên tham gia với 1.999k / năm",
+        "Mỗi lần nhận 1 match phù hợp nhất",
+        "Khi cả hai cùng muốn gặp → đặt lịch (599k / buổi)",
+        "Không chat vòng vo — gặp trực tiếp"
+      ],
+      "philosophy": "Ít hơn, nhưng đúng hơn",
+      "cta": "Duyệt hồ sơ miễn phí"
+    },
+    "step2": {
+      "pending_title": "Đang duyệt hồ sơ",
+      "pending_text": "Hồ sơ của bạn đang được Clique duyệt trong 1, 2 hoặc 3 ngày tới. Nhớ check kết quả tại đây hoặc qua email nhé.",
+      "vetting_status": "Đang trong quá trình duyệt",
+      "refresh_btn": "Làm mới trang"
+    },
+    "step3": {
+      "approved_title": "Chúc mừng bạn, hồ sơ của bạn đã được duyệt!",
+      "social_proof": "Hơn 17.000 đã tham gia vào hệ thống Clique. Bạn đã sẵn sàng?",
+      "cta": "Tôi sẵn sàng"
+    },
+    "step4": {
+      "pricing_intro": "Có phí giúp loại bỏ những người chưa sẵn sàng, để bạn không phải đi những buổi hẹn vô nghĩa.",
+      "pricing_details": {
+        "title": "Chi phí Coffee Date:",
+        "membership": "1.999k / năm phí ghép đôi với các thành viên đã được chọn lọc",
+        "per_session": "599k / buổi để đảm bảo cả hai đều thật sự muốn gặp"
+      },
+      "value_prop": {
+        "title": "Bạn không cần phải nghĩ quá nhiều",
+        "points": [
+          "Clique chọn sẵn người phù hợp",
+          "Clique sắp xếp thời gian & địa điểm",
+          "Bạn chỉ cần quyết định: gặp hay không"
+        ]
+      },
+      "cta": "Đi tiếp"
+    }
+  }
+}

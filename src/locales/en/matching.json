@@ -1,0 +1,475 @@
+{
+  "congrats": {
+    "title": "You have a match!",
+    "subtitle": "Someone special is waiting for you",
+    "revealing": "REVEALING...",
+    "view_match": "View Your Match"
+  },
+  "round2": {
+    "common": {
+      "other": "Other",
+      "ready": "READY",
+      "specify_placeholder": "Please specify...",
+      "type_here_placeholder": "Type here...",
+      "section_prefix": "Section",
+      "question_prefix": "Q",
+      "min_chars": "At least {{count}} characters",
+      "char_count": "{{count}} characters",
+      "selection_note_slider": "Slide to select",
+      "selection_note_no_right_answer": "There is no right answer. Just choose what feels closest to you.",
+      "day_prefix": ""
+    },
+    "sections": {
+      "values": {
+        "title_highlight": "YOU?",
+        "title_normal": "WHAT MATTERS TO",
+        "description": "What you value in life shapes compatibility in a relationship."
+      },
+      "match": {
+        "title_highlight": "THE AGE RANGE",
+        "title_normal": "YOU’RE OPEN TO",
+        "description": "Age is only one part of the picture. But the range you choose directly affects the number and quality of matches we can send you."
+      },
+      "personality": {
+        "title_highlight": "HOW YOU",
+        "title_normal": "CONNECT",
+        "description": "Understanding how you interact and bond helps us find deeper compatibility."
+      },
+      "lifestyle": {
+        "title_highlight": "LIFESTYLE",
+        "title_normal": "& PHYSICALITY",
+        "description": "Health and lifestyle choices help us find someone who shares your rhythm.",
+        "height_note": "Confidential data for Matching Engine",
+        "height_warning": "* Height is only used for more accurate matching and is not displayed publicly."
+      },
+      "interests": {
+        "title_highlight": "INTERESTS",
+        "title_normal": "& PASSIONS",
+        "description": "The activities you love are great starting points for interesting conversations."
+      },
+      "shared_interests": {
+        "description": "How important are shared interests in a partner?"
+      },
+      "background": {
+        "title_highlight": "CULTURE,",
+        "title_normal": "BELIEFS & LANGUAGE",
+        "description": ""
+      },
+      "expression": {
+        "title_highlight": "PERSONAL",
+        "title_normal": "IMPRINT",
+        "description": "The more honest and detailed this part is, the better we can understand you — which leads to stronger matches and a story that feels true to who you are."
+      }
+    },
+    "slider": {
+      "likert": {
+        "completely_min": "Completely {{label}}",
+        "leaning_min": "Leaning towards {{label}}",
+        "neutral": "Neutral (Balanced)",
+        "leaning_max": "Leaning towards {{label}}",
+        "completely_max": "Completely {{label}}"
+      }
+    },
+    "accept_divorced": {
+      "title": "Are you open to dating someone who is divorced?",
+      "options": {
+        "yes": "Yes",
+        "no": "No",
+        "depends": "Depends"
+      }
+    },
+    "activities": {
+      "title": "HOW YOU’D LOVE TO​ ENJOY LIFE TOGETHER?",
+      "description": "You can select multiple answers",
+      "options": {
+        "traveling": "Traveling",
+        "fitness_gym": "Fitness , Gym",
+        "outdoor_sports": "Running , Outdoor sports",
+        "yoga_wellness": "Yoga , Wellness",
+        "reading": "Reading",
+        "movies_netflix": "Movies , Netflix",
+        "music_concerts": "Music , Concerts",
+        "cooking_food": "Cooking , Food exploring",
+        "cafe_hopping": "Café hopping",
+        "nightlife_bars": "Nightlife , Bars",
+        "art_exhibitions": "Art , Exhibitions",
+        "photography": "Photography",
+        "gaming": "Gaming",
+        "business_networking": "Business , Networking",
+        "volunteering": "Volunteering",
+        "spiritual_meditation": "Spiritual , Meditation"
+      }
+    },
+    "age_range": {
+      "title": "What is the age range of the person you would like to meet?",
+      "from": "FROM",
+      "to": "TO",
+      "target_age": "Target Age",
+      "flexible_label": "I’m willing to receive a strong match outside of this range if any.",
+      "age_warning": "Choosing an age range close to your own will increase your chances of a successful and faster match!"
+    },
+    "attachment_style": {
+      "title": "How do you typically approach a new emotional connection?",
+      "options": {
+        "secure": "Secure",
+        "anxious": "Anxious",
+        "avoidant": "Avoidant",
+        "not_sure": "Not sure , mixed"
+      }
+    },
+    "openness": {
+      "title": "In a relationship, do you tend to prefer someone more like you — or someone different enough to complement you?",
+      "min_label": "Similarity",
+      "max_label": "Complementary to me"
+    },
+    "dealbreakers": {
+      "title": "Is there anything that you absolutely cannot accept in a partner?",
+      "placeholder": "Describe your dealbreakers..."
+    },
+    "children_view": {
+      "title": "What are your thoughts on having children?",
+      "options": {
+        "want_children": "I want children",
+        "no_children": "I don't want children",
+        "already_have": "I already have children",
+        "open_undecided": "I'm open , undecided"
+      }
+    },
+    "conflict_style": {
+      "title": "When something bothers you, you usually…",
+      "options": {
+        "direct": "Address it directly",
+        "time": "Take time before speaking",
+        "gentle_indirect": "Communicate gently or indirectly",
+        "avoid": "Avoid conflict if possible"
+      }
+    },
+    "core_values": {
+      "title": "What are your top priorities in life?",
+      "description": "You can select multiple answers",
+      "options": {
+        "family": "Family & close relationships",
+        "career": "Career & achievement",
+        "financial": "Financial security",
+        "freedom": "Personal freedom & independence",
+        "adventure": "Adventure & exploration",
+        "creativity": "Creativity & self-expression",
+        "spirituality": "Spirituality or faith",
+        "health": "Health & well-being",
+        "growth": "Intellectual growth",
+        "contribution": "Contribution & helping others",
+        "stability": "Stability & routine",
+        "community": "Community & social connection",
+        "romantic_relationship": "Romantic relationship"
+      }
+    },
+    "cultural_bg": {
+      "title": "In what cultural environment were you raised?",
+      "options": {
+        "vn_raised_vn": "Vietnamese, raised in Vietnam",
+        "vn_raised_abroad": "Vietnamese, raised abroad",
+        "vn_mixed": "Vietnamese mixed background",
+        "asian_non_vn": "Asian (non-Vietnamese)",
+        "western": "Western",
+        "mixed_intl": "Mixed international background"
+      }
+    },
+    "decision_style": {
+      "title": "When making big decisions, do you follow your head or your heart?",
+      "options": {
+        "logic": "Logic & long-term planning",
+        "emotional": "Emotional intuition",
+        "balance": "A balance of both"
+      }
+    },
+    "diet": {
+      "title": "Do you have any dietary preferences?",
+      "options": {
+        "no_restriction": "No restriction",
+        "vegetarian": "Vegetarian",
+        "vegan": "Vegan",
+        "halal": "Halal"
+      }
+    },
+    "bio": {
+      "title": "Tell us about yourself",
+      "selection_note": "Try not to stop at a few generic adjectives. Show us how you live, how you love, what matters to you, and what you hope to find in a relationship.",
+      "placeholder": "Example: I’m someone warm by nature, but also quite thoughtful when it comes to relationships. I value kindness, communication, and feeling safe with someone. Outside of work, I enjoy small things like walking, coffee, reading, or discovering a new place. I’m often drawn to people with depth, clarity, and a certain warmth…"
+    },
+    "three_words": {
+      "title": "3 words that describe you"
+    },
+    "anything_else": {
+      "title": "Anything else you want to share?",
+      "placeholder": "Optional — share anything you'd like..."
+    },
+    "habits": {
+      "smoking": {
+        "title": "Smoking habits",
+        "options": {
+          "never": "Never",
+          "occasionally": "Occasionally",
+          "regularly": "Regularly"
+        }
+      },
+      "accept_smoker": {
+        "title": "Accept smoker?",
+        "options": {
+          "yes": "Yes",
+          "no": "No",
+          "depends": "Depends"
+        }
+      },
+      "drinking": {
+        "title": "Drinking habits",
+        "options": {
+          "never": "Never",
+          "occasionally": "Occasionally",
+          "socially": "Socially",
+          "regularly": "Regularly"
+        }
+      },
+      "accept_drinking": {
+        "title": "Accept drinking?",
+        "options": {
+          "yes": "Yes",
+          "no": "No",
+          "depends": "Depends"
+        }
+      }
+    },
+    "height": {
+      "title": "Your height (cm)",
+      "min_label": "140 cm",
+      "max_label": "210 cm",
+      "suffix": "cm"
+    },
+    "min_height": {
+      "title": "Preferred minimum height:"
+    },
+    "personality_social": {
+      "title": "How introverted or extroverted do you see yourself?",
+      "min_label": "Introverted",
+      "max_label": "Extroverted",
+      "options": {
+        "strongly_introverted": "Strongly introverted",
+        "slightly_introverted": "Slightly introverted",
+        "balanced": "Balanced",
+        "slightly_extroverted": "Slightly extroverted",
+        "strongly_extroverted": "Strongly extroverted"
+      }
+    },
+    "languages": {
+      "title": "In which languages can you communicate confidently?",
+      "description": "Select all that apply",
+      "search_placeholder": "Search other languages...",
+      "no_results": "No languages found",
+      "options": {
+        "vietnamese": "Vietnamese",
+        "english": "English",
+        "french": "French",
+        "german": "German",
+        "dutch": "Dutch",
+        "spanish": "Spanish",
+        "italian": "Italian",
+        "russian": "Russian",
+        "korean": "Korean",
+        "japanese": "Japanese",
+        "mandarin": "Mandarin Chinese",
+        "cantonese": "Cantonese",
+        "thai": "Thai"
+      }
+    },
+    "life_stage": {
+      "title": "What's your current life situation?",
+      "options": {
+        "exploring": "Exploring , figuring things out",
+        "building_career": "Building my career",
+        "established": "Established & stable",
+        "starting_family": "Starting or raising a family",
+        "in_transition": "In transition"
+      }
+    },
+    "lifestyle": {
+      "title": "Are you a planner or do you prefer being spontaneous?",
+      "min_label": "Planned",
+      "max_label": "Spontaneous"
+    },
+    "love_language": {
+      "title": "How do you like to receive love?",
+      "description": "Select up to 2",
+      "options": {
+        "affirmation": "Words of affirmation",
+        "quality_time": "Quality time",
+        "acts_of_service": "Acts of service",
+        "physical_touch": "Physical touch",
+        "gifts": "Gifts"
+      }
+    },
+    "languages": {
+      "title": "Which languages can you communicate confidently in?",
+      "description": "Select all languages you can use",
+      "search_placeholder": "Search other languages...",
+      "no_results": "Language not found",
+      "options": {
+        "vietnamese": "Vietnamese",
+        "english": "English",
+        "chinese": "Chinese",
+        "japanese": "Japanese",
+        "korean": "Korean",
+        "french": "French",
+        "german": "German",
+        "dutch": "Dutch",
+        "spanish": "Spanish",
+        "italian": "Italian",
+        "russian": "Russian",
+        "portuguese": "Portuguese",
+        "swedish": "Swedish",
+        "norwegian": "Norwegian",
+        "danish": "Danish",
+        "finnish": "Finnish",
+        "greek": "Greek",
+        "polish": "Polish",
+        "czech": "Czech",
+        "hungarian": "Hungarian",
+        "ukrainian": "Ukrainian",
+        "romanian": "Romanian",
+        "thai": "Thai",
+        "khmer": "Cambodian (Khmer)",
+        "lao": "Lao",
+        "malay": "Malay / Indonesian",
+        "tagalog": "Filipino (Tagalog)",
+        "burmese": "Burmese",
+        "arabic": "Arabic",
+        "turkish": "Turkish",
+        "hindi": "Hindi",
+        "sign_language_vn": "VN Sign Language",
+        "sign_language_intl": "Intl Sign Language",
+        "other": "Other"
+      }
+    },
+    "marital_status": {
+      "title": "What is your current marital status?",
+      "options": {
+        "single": "Single (never married)",
+        "divorced": "Divorced",
+        "widowed": "Widowed",
+        "separated": "Separated"
+      }
+    },
+    "mbti": {
+      "title": "What is your MBTI?",
+      "description": "Don't know your type? <1>Take the free test here →</1>",
+      "test_url": "https://www.16personalities.com/free-personality-test",
+      "options": {
+        "dont_know": "I don't know my MBTI"
+      }
+    },
+    "money_relation": {
+      "title": "How do you usually manage your money?",
+      "options": {
+        "plan_save": "I plan and save carefully",
+        "spend_enjoy": "I spend to enjoy life",
+        "invest_growth": "I invest for long-term growth",
+        "balance": "I try to balance all three",
+        "not_focus": "Money isn't a big focus for me"
+      }
+    },
+    "nationality": {
+      "title": "What is your nationality?",
+      "options": {
+        "vietnamese": "Vietnamese",
+        "american": "American",
+        "british": "British",
+        "chinese": "Chinese",
+        "korean": "Korean",
+        "japanese": "Japanese",
+        "french": "French",
+        "german": "German",
+        "australian": "Australian",
+        "canadian": "Canadian",
+        "singaporean": "Singaporean",
+        "thai": "Thai",
+        "other": "Other"
+      }
+    },
+    "pet": {
+      "title": "About having pets in your home",
+      "options": {
+        "love": "I love pets",
+        "okay": "I'm okay with pets",
+        "no_pets": "I prefer no pets",
+        "allergic": "I'm allergic , cannot live with pets"
+      }
+    },
+    "physical_activity": {
+      "title": "How active is your lifestyle?",
+      "min_label": "Basic",
+      "max_label": "Very active",
+      "options": {
+        "very_low": "Very low (rarely exercise)",
+        "low": "Low (1–2 times/week)",
+        "moderate": "Moderate (3–4 times/week)",
+        "high": "High (5+ times/week)",
+        "very_active": "Very active (daily , athlete level)"
+      }
+    },
+    "religion": {
+      "title": "What is your religion?",
+      "options": {
+        "none": "None",
+        "buddhism": "Buddhism",
+        "christianity": "Christianity",
+        "catholic": "Catholic",
+        "islam": "Islam",
+        "hinduism": "Hinduism",
+        "spiritual": "Spiritual but not religious"
+      },
+      "importance": {
+        "title": "How important is it that your partner shares the same religion?",
+        "min_label": "Not important",
+        "max_label": "Very important"
+      }
+    },
+    "spirituality": {
+      "title": "Do you believe in fortune telling , spirituality?",
+      "min_label": "Not at all",
+      "max_label": "Strongly believe"
+    },
+    "shared_interests": {
+      "title": "How important are shared interests in a partner?",
+      "min_label": "Not important",
+      "max_label": "Very important"
+    },
+    "social_media": {
+      "title": "Social Media Links",
+      "description": "Providing your social media helps us verify your profile and find better matches.",
+      "facebook": {
+        "label": "Facebook",
+        "placeholder": "https://facebook.com/yourprofile"
+      },
+      "instagram": {
+        "label": "Instagram",
+        "placeholder": "@yourusername or link"
+      },
+      "linkedin": {
+        "label": "LinkedIn",
+        "placeholder": "https://linkedin.com/in/yourprofile"
+      }
+    },
+    "rest_stop": {
+      "done_p1_title": "Great Start!",
+      "done_p1_desc": "Your habits will help us find someone on the same wavelength.",
+      "next_p2_title": "Worldview & Lifestyle",
+      "next_p2_desc": "Share your life perspective and how you express affection in a relationship.",
+      "done_p2_title": "Depth & Connection",
+      "done_p2_desc": "Sincere sharing is the key to a sustainable relationship.",
+      "next_p3_title": "Dating Criteria",
+      "next_p3_desc": "Describe your ideal partner and set expectations for the perfect date.",
+      "up_next": "UP NEXT"
+    },
+    "curating_experience": "Curating your experience...",
+    "survey_completed": "Survey completed successfully",
+    "membership_required": "Membership Required"
+  }
+}

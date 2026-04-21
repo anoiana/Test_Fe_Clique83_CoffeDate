@@ -1,0 +1,34 @@
+{
+  "aria": {
+    "back": "Back",
+    "toggle_sound": "Toggle sound",
+    "pass": "Pass",
+    "like": "I'm interested"
+  },
+  "profile": {
+    "avatar_alt": "Match Profile",
+    "anthem_label": "THEIR ANTHEM",
+    "why_click_label": "WHY WE THINK YOU'LL CLICK",
+    "about_label": "ABOUT {{name}}",
+    "interests_label": "INTERESTS",
+    "get_to_know_label": "GET TO KNOW",
+    "prompts": {
+      "perfectDay": "A perfect Sunday looks like...",
+      "lookingFor": "I'm looking for someone who...",
+      "friendsDescription": "My friends would describe me as..."
+    }
+  },
+  "intro": {
+    "found_someone": "We Found Someone For You",
+    "personal_anthem": "Personal Anthem",
+    "age_label": "Age",
+    "years_old": "Years Old"
+  },
+  "waiting": {
+    "action_home": "Back to Home"
+  },
+  "actions": {
+    "pass": "I'll pass",
+    "meet": "I want to meet"
+  }
+}

@@ -1,0 +1,228 @@
+@import "tailwindcss";
+
+/* ─── Design System Imports (Single Source of Truth) ─── */
+@import "./styles/design-tokens.css";
+@import "./styles/typography.css";
+@import "./styles/colors.css";
+
+/* ═══════════════════════════════════════════════════════════════════════
+   TAILWIND THEME BRIDGE — Maps CSS custom properties to Tailwind utilities
+   Usage: bg-primary, text-ink, bg-background-paper, etc.
+   ═══════════════════════════════════════════════════════════════════════ */
+@theme {
+  /* Colors */
+  --color-primary: var(--c-primary);
+  --color-primary-dark: var(--c-primary-dark);
+  --color-primary-light: var(--c-primary-light);
+  --color-background-paper: var(--c-background);
+  --color-background-warm: var(--c-surface);
+  --color-background-dark: var(--c-background);  /* Alias for backward compat */
+  --color-background-light: var(--c-surface);
+  --color-ink: var(--c-text-main);
+  --color-kraft: var(--c-highlight);
+  --color-divider: var(--c-divider);
+
+  /* Fonts */
+  --font-sans: var(--font-sans);
+  --font-serif: var(--font-serif);
+  --font-mono: var(--font-mono);
+  --font-display: var(--font-display);
+
+  /* Radius */
+  --radius-lg: 0.5rem;
+  --radius-xl: 0.75rem;
+
+  /* Spacing Scale Override (Survey Spacing Logic) */
+  --spacing-12: var(--space-2xl); 
+  --spacing-14: 2.5rem;   
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════
+   BASE LAYER — Global defaults
+   ═══════════════════════════════════════════════════════════════════════ */
+@layer base {
+  html {
+    font-size: var(--font-base-scale);
+  }
+
+  body {
+    background-color: var(--c-background);
+    color: var(--c-text-main);
+    font-family: var(--font-sans);
+    scrollbar-gutter: stable;
+  }
+
+  /* ─── Scrollbar — Warm, subtle, organic ─── */
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: var(--c-scrollbar);
+    border-radius: 20px;
+    border: 1px solid var(--c-divider);
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--c-scrollbar-hover);
+  }
+
+  /* Firefox Scrollbar */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--c-scrollbar) transparent;
+  }
+
+  /* Hide number input spin buttons */
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  input[type=number] {
+    -moz-appearance: textfield;
+    appearance: none;
+  }
+
+  /* Premium Custom Scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: var(--c-primary-a20);
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: var(--c-primary-a40);
+    background-clip: content-box;
+  }
+
+  html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════
+   COMPONENT LAYER — Reusable patterns
+   ═══════════════════════════════════════════════════════════════════════ */
+@layer components {
+  /* ─── Glass / Card Effects ─── */
+  .glass-effect {
+    background: var(--c-glass-bg);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--c-glass-border);
+  }
+
+  .glass-effect-premium {
+    background: var(--gradient-glass-premium);
+    backdrop-filter: blur(16px);
+    border: 1px solid var(--c-glass-border-strong);
+    box-shadow: var(--shadow-card);
+  }
+
+  /* ─── Paper Texture Overlay (3-5% opacity) ─── */
+  .paper-texture::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--c-overlay-paper);
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ─── Animations ─── */
+  @keyframes fadeInDown {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes fadeOutUp {
+    from { opacity: 1; transform: translateY(0); }
+    to { opacity: 0; transform: translateY(-20px); }
+  }
+
+  @keyframes slideUpFade {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-4px); }
+    75% { transform: translateX(4px); }
+  }
+
+  .animate-shake {
+    animation: shake 0.2s ease-in-out 0s 2;
+  }
+
+  .animate-fade-in-down {
+    animation: fadeInDown 0.5s ease-out both;
+  }
+
+  .animate-fade-out-up {
+    animation: fadeOutUp 0.5s ease-in both;
+  }
+
+  .animate-slide-up-fade {
+    animation: slideUpFade 0.5s ease-out both;
+  }
+
+  /* Stagger delays */
+  .delay-100 { animation-delay: 0.1s; }
+  .delay-200 { animation-delay: 0.2s; }
+  .delay-300 { animation-delay: 0.3s; }
+  .delay-400 { animation-delay: 0.4s; }
+  .delay-500 { animation-delay: 0.5s; }
+  .delay-600 { animation-delay: 0.6s; }
+  .delay-700 { animation-delay: 0.7s; }
+  .delay-800 { animation-delay: 0.8s; }
+  .delay-900 { animation-delay: 0.9s; }
+  .delay-1000 { animation-delay: 1.0s; }
+
+  /* ─── Layout Legacy — Blur effects (kept for auth transitions) ─── */
+  .layout-blur-active .layout-video-bg {
+    opacity: 0.05;
+    filter: grayscale(1);
+    will-change: opacity, filter;
+  }
+
+  .layout-blur-active .layout-video-overlay {
+    opacity: 1;
+  }
+
+  /* ─── Logo Glow — Warm burgundy ─── */
+  .logo-glow {
+    filter: drop-shadow(0 0 20px rgba(122, 46, 46, 0.15));
+    will-change: transform, opacity;
+  }
+
+  /* ─── Global Header Fix ─── */
+  header {
+    @apply pr-14 sm:pr-0;
+  }
+
+  /* ─── Universal Viewport Height ─── */
+  .h-viewport {
+    height: 100vh;
+    height: 100dvh;
+  }
+}

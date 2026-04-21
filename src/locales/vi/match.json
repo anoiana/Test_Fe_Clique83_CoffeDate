@@ -1,0 +1,34 @@
+{
+  "aria": {
+    "back": "Quay lại",
+    "toggle_sound": "Bật/tắt âm thanh",
+    "pass": "Bỏ qua",
+    "like": "Tôi quan tâm"
+  },
+  "profile": {
+    "avatar_alt": "Ảnh đối tượng",
+    "anthem_label": "BÀI HÁT CỦA HỌ",
+    "why_click_label": "TẠI SAO CHÚNG TÔI NGHĨ HAI BẠY SẼ HỢP NHAU",
+    "about_label": "VỀ {{name}}",
+    "interests_label": "SỞ THÍCH",
+    "get_to_know_label": "TÌM HIỂU THÊM",
+    "prompts": {
+      "perfectDay": "Một ngày Chủ Nhật hoàn hảo sẽ là...",
+      "lookingFor": "Tôi đang tìm kiếm một người...",
+      "friendsDescription": "Bạn bè thường nhận xét tôi là..."
+    }
+  },
+  "intro": {
+    "found_someone": "Chúng tôi đã tìm thấy một người cho bạn",
+    "personal_anthem": "Bài hát cá nhân",
+    "age_label": "Tuổi",
+    "years_old": "Tuổi"
+  },
+  "waiting": {
+    "action_home": "Quay về Trang chủ"
+  },
+  "actions": {
+    "pass": "Bỏ qua",
+    "meet": "Muốn gặp"
+  }
+}

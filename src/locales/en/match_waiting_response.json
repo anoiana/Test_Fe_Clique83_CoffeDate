@@ -1,0 +1,8 @@
+{
+  "status": "INVITATION SENT",
+  "title": "Awaiting Response",
+  "sent_to": "Invitation sent to <1>{{name}}</1>.",
+  "notification_title": "STATUS UPDATE",
+  "notification_desc": "You'll be notified as soon as they respond.",
+  "what_now": "What's happening now?"
+}

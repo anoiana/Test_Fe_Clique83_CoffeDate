@@ -1,0 +1,80 @@
+{
+  "curated_match": "GỢI Ý DÀNH RIÊNG CHO BẠN",
+  "discover_more": "Vuốt xuống để xem thêm",
+  "end_of_profile": "Hết nội dung hồ sơ",
+  "start_story": "Bắt đầu <1>câu chuyện</1> của bạn",
+  "math_promise": "{{userName}}, hành trình tìm kiếm một tâm hồn đồng điệu của bạn có thể đã chạm đến bến đỗ bình yên cùng {{name}}.",
+  "sections": {
+    "about": "Giới thiệu",
+    "values": "Giá trị & Ưu tiên",
+    "lifestyle": "Phong cách sống",
+    "relationship": "Phong cách quan hệ",
+    "background": "Nền tảng",
+    "interests": "Sở thích"
+  },
+  "story_labels": {
+    "hook": "ĐIỂM CHUNG NỔI BẬT",
+    "reveal": "NHẬN ĐỊNH TỪ CLIQUE",
+    "why_this_match": "LÝ DO GHÉP ĐÔI",
+    "emotional_fit": "ĐỘ TƯƠNG THÍCH CẢM XÚC",
+    "lifestyle": "PHONG CÁCH SỐNG",
+    "dynamics": "BỨC TRANH MỐI QUAN HỆ",
+    "insight": "GÓC NHÌN SÂU HƠN"
+  },
+  "complementarity_title": "SỰ BÙ TRỪ HOÀN HẢO",
+  "visualize_moment": "Hình dung khoảnh khắc",
+  "next_step_title": "Sẵn sàng cho bước tiếp theo?",
+  "next_step_desc": "Nếu cả hai đều quan tâm, chúng tôi sẽ sắp xếp một buổi hẹn cà phê cho bạn.",
+  "ready_to_meet": "SẴN SÀNG GẶP MẶT?",
+  "quick_facts": {
+    "snapshot": "THÔNG TIN CƠ BẢN",
+    "title": "BỨC TRANH TỔNG QUAN"
+  },
+  "labels": {
+    "age": "Tuổi",
+    "city": "Nơi ở",
+    "job": "Công việc",
+    "intention": "Mục tiêu",
+    "children": "Con cái",
+    "height": "Chiều cao",
+    "smoking": "Hút thuốc",
+    "drinking": "Rượu bia",
+    "mbti": "Tích cách MBTI",
+    "religion": "Tôn giáo",
+    "marital_status": "Tình trạng hôn nhân"
+  },
+  "visual_story": {
+    "label": "LỐI SỐNG & HÌNH ẢNH",
+    "title": "KHOẢNH KHẮC ĐỜI THƯỜNG"
+  },
+  "proof": {
+    "label": "Tại sao Clique ghép đôi bạn",
+    "title": "Xác thực ngay lập tức"
+  },
+  "realism": {
+    "label": "Sự thật khách quan",
+    "footer": "Xây dựng lòng tin"
+  },
+  "details": {
+    "deep_dive": "CHI TIẾT HỒ SƠ GỐC",
+    "title": "TÌM HIỂU SÂU HƠN VỀ ĐỐI PHƯƠNG",
+    "priority": "Ưu tiên",
+    "activity_level": "Mức độ vận động",
+    "pets": "Thú cưng",
+    "diet": "Chế độ ăn",
+    "communication": "Giao tiếp",
+    "attachment": "Kiểu gắn kết",
+    "love_languages": "Ngôn ngữ tình yêu",
+    "education": "Học vấn",
+    "culture": "Văn hóa",
+    "languages": "Ngôn ngữ",
+    "nationality": "Quốc tịch"
+  },
+  "defaults": {
+    "communication": "Trực tiếp & Cởi mở",
+    "love_language": "Thời gian chất lượng",
+    "culture": "Việt Nam",
+    "languages": "Tiếng Việt, Tiếng Anh",
+    "nationality": "Việt Nam"
+  }
+}

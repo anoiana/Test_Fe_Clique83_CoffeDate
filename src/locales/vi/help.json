@@ -1,0 +1,57 @@
+{
+  "steps": {
+    "value": {
+      "modal_title": "GIÁ TRỊ",
+      "title": "CÁCH TÌM KIẾM KẾT NỐI MỚI",
+      "desc": "Thay vì chọn bừa bãi, mỗi tuần Clique sẽ giới thiệu cho bạn một người duy nhất rất phù hợp với cuộc sống của bạn."
+    },
+    "intake": {
+      "modal_title": "KHẢO SÁT",
+      "title": "BẮT ĐẦU VỚI VÀI THÔNG TIN CƠ BẢN",
+      "desc": "Chỉ mất 2 phút để chia sẻ về bản thân và những gì bạn tìm kiếm. Điều này giúp Clique hiểu rõ mong muốn của bạn hơn."
+    },
+    "membership": {
+      "modal_title": "THÀNH VIÊN",
+      "title": "TRỞ THÀNH THÀNH VIÊN CLIQUE",
+      "desc": "Phí thành viên (650.000đ / 3 tháng) giúp duy trì cộng đồng chất lượng. Điều này đảm bảo mọi người bạn gặp đều nghiêm túc muốn kết nối."
+    },
+    "matching": {
+      "modal_title": "GHÉP ĐÔI",
+      "title": "CHÚNG TÔI MUỐN HIỂU BẠN HƠN",
+      "desc": "Trả lời các câu hỏi về giá trị sống giúp Clique lọc ra người phù hợp nhất với phong cách sống của bạn."
+    },
+    "weekly_match": {
+      "modal_title": "GỢI Ý MỖI TUẦN",
+      "title": "MỖI TUẦN MỘT NGƯỜI PHÙ HỢP",
+      "desc": "Mỗi tuần bạn sẽ nhận được một gợi ý kèm theo lý do tại sao hai bạn hợp nhau. Bạn có 7 ngày để quyết định có muốn gặp mặt hay không."
+    },
+    "payment": {
+      "modal_title": "THANH TOÁN",
+      "title": "PHÍ HẸN HÒ",
+      "desc": "Sau khi cả hai cùng đồng ý gặp mặt, một khoản phí giữ chỗ nhỏ (120.000đ) là cần thiết để đảm bảo sự nghiêm túc. Bước này sẽ dẫn đến việc sắp xếp thời gian và địa điểm cụ thể."
+    },
+    "meeting_flow": {
+      "modal_title": "QUY TRÌNH GẶP MẶT",
+      "title": "TỪ GHÉP ĐÔI ĐẾN BUỔI HẸN THỰC TẾ",
+      "desc": "Nếu cả hai cùng đồng ý, Clique sẽ lo mọi việc từ thời gian đến địa điểm. Bạn chỉ cần đến và tận hưởng buổi hẹn hò."
+    }
+  },
+  "get_started": "Bắt đầu ngay",
+  "next_step": "Bước tiếp theo",
+  "mode_app_flow": "Lộ trình ứng dụng",
+  "mode_matching": "Logic ghép đôi",
+  "how_match_works": {
+    "data_depth": {
+      "title": "PHẦN TÍCH DỮ LIỆU SÂU",
+      "desc": "Chúng tôi không chỉ xem xét tuổi tác hay vị trí. Chúng tôi phân tích giá trị, đặc điểm tính cách và mục tiêu sống của bạn để tìm thấy khả năng tương thích thực sự."
+    },
+    "psychological_fit": {
+      "title": "SỰ PHÙ HỢP TÂM LÝ",
+      "desc": "Logic của chúng tôi tính đến các đặc điểm bổ trợ—như sự ấm áp của bạn cân bằng với sự ổn định của họ—để đảm bảo một mối quan hệ cảm thấy vững chắc."
+    },
+    "human_curation": {
+      "title": "KẾT HỢP GIỮA AI & CON NGƯỜI",
+      "desc": "Clique kết hợp logic ghép đôi tiên tiến với sự giám sát chuyên sâu của con người để xác minh rằng mọi kết nối đều ý nghĩa."
+    }
+  }
+}

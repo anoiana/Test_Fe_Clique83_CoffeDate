@@ -1,0 +1,56 @@
+{
+  "header": "TRẠNG THÁI KẾT NỐI",
+  "title": "TIẾN TRÌNH",
+  "subtitle": "cuộc hẹn",
+  "no_meetings": "Không tìm thấy buổi hẹn nào",
+  "back_to_search": "Quay lại tìm kiếm",
+  "fetch_error": "Không thể tải trạng thái buổi hẹn.",
+  "status": {
+    "awaiting_payment": {
+      "label": "Chờ thanh toán",
+      "description": "Vui lòng hoàn tất phí.",
+      "action": "Thanh toán ngay"
+    },
+    "awaiting_availability": {
+      "label": "Thiết lập lịch rảnh",
+      "description": "Match thành công! Cả hai đã thanh toán. Hãy chọn thời gian của bạn.",
+      "action": "Chọn lịch rảnh"
+    },
+    "awaiting_location": {
+      "label": "Đang chọn địa điểm",
+      "description": "Chúng tôi đã tìm thấy khung giờ chung! Giờ là lúc chọn địa điểm hoàn hảo.",
+      "action": "Xác nhận địa điểm"
+    },
+    "confirmed": {
+      "label": "Đã xác nhận",
+      "description": "Mọi thứ đã sẵn sàng! Kiểm tra chi tiết buổi hẹn bên dưới.",
+      "action": "Xem chi tiết"
+    },
+    "completed": {
+      "label": "Đã hoàn thành",
+      "description": "Hy vọng bạn đã có một trải nghiệm khó quên."
+    },
+    "expired": {
+      "label": "Đã hết hạn",
+      "description": "Liên kết buổi hẹn này đã hết hạn hoặc bị hủy."
+    },
+    "processing": "Đang xử lý kết nối..."
+  },
+  "waiting_match_payment": "Đang đợi đối phương thanh toán",
+  "waiting_match_availability": "Đang đợi đối phương chọn lịch",
+  "waiting_match_location": "Đang đợi đối phương chọn quán",
+  "you": "Bạn",
+  "match": "Đối phương",
+  "paid": "Đã trả",
+  "location_selected": "Đã chọn",
+  "pending": "Chờ...",
+  "date": "Ngày",
+  "time": "Giờ",
+  "date_time": "Ngày & Giờ",
+  "location": "Địa điểm",
+  "confirmed_venue": "Địa điểm",
+  "on_time_promise": "Bạn sẽ có mặt đúng giờ",
+  "meeting_closed": "Buổi hẹn đã đóng",
+  "secure_escrow": "Đã bật Ký quỹ An toàn",
+  "escrow_policy": "Tiền được giữ an toàn cho đến khi buổi hẹn được xác nhận hoặc hủy theo chính sách của chúng tôi."
+}

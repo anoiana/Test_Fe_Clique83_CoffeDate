@@ -1,0 +1,29 @@
+{
+  "confirm": {
+    "title": "COMPLETE MEETING",
+    "ready": "READY",
+    "locked": "NOT YET TIME",
+    "unlock_desc": "You can complete the meeting in",
+    "unlock_footer": "from the meeting start time",
+    "countdown_ready": "The wait is over!",
+    "unlocked_message": "Ready to send feedback",
+    "minute": "minute",
+    "minutes": "minutes",
+    "note_label": "Note",
+    "note_desc": "After completing the meeting, you will be redirected to a 10-question feedback form to share your experience.",
+    "action_button": "Complete Meeting"
+  },
+  "promise": {
+    "title": "COMMITMENT MADE",
+    "desc": "Thank you for confirming! Your meeting has been recorded.",
+    "next_step_label": "What's next",
+    "next_step_desc": "After the meeting, you can rate and send feedback to Clique83 after <1>30 minutes</1> from the start time.",
+    "action": "Continue"
+  },
+  "thank_you": {
+    "title": "THANK YOU!",
+    "desc": "Your feedback helps Clique83 improve matching quality and provide a better experience.",
+    "action": "BACK TO HOME"
+  },
+  "initializing": "INITIALIZING FEEDBACK"
+}

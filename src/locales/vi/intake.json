@@ -1,0 +1,200 @@
+{
+  "steps": {
+    "step_1": "Bước 1 trên 3",
+    "step_2": "Bước 2 trên 3",
+    "step_3": "Bước 3 trên 3"
+  },
+  "birthdate": {
+    "title": "Ngày sinh của bạn?",
+    "selection_note": "Vui lòng điền đúng — ngày sinh ảnh hưởng đến cách tụi mình ghép đôi bạn.",
+    "placeholder": "DD/MM/YYYY",
+    "error": "Bạn phải từ 21 tuổi trở lên để tham gia cộng đồng của chúng tôi."
+  },
+  "education": {
+    "title": "Trình độ học vấn của bạn?",
+    "selection_note": "Chọn 1",
+    "description": "Hãy chọn bằng cấp cao nhất bạn đã đạt được.",
+    "options": {
+      "secondary": "Trung học cơ sơ",
+      "highschool": "Trung học phổ thông",
+      "associate": "Cao đẳng",
+      "bachelor": "Đại học, Cử nhân",
+      "master": "Thạc sĩ",
+      "phd": "Tiến sĩ",
+      "other": "Khác"
+    },
+    "other_placeholder": "Cụ thể trình độ học vấn của bạn..."
+  },
+  "gender": {
+    "title": "Giới tính của bạn?",
+    "selection_note": "Chọn 1",
+    "description": "Vui lòng chọn giới tính của bạn. Điều này giúp hệ thống gợi ý những đối tượng phù hợp nhất với bản sắc của bạn.",
+    "options": {
+      "male": "Nam",
+      "female": "Nữ",
+      "other": "Khác"
+    },
+    "other_placeholder": "Nhập giới tính của bạn..."
+  },
+  "income": {
+    "title": "Thu nhập mỗi tháng của bạn?",
+    "selection_note": "Chọn 1",
+    "description": "Thông tin này được bảo mật và chỉ dùng để ghép đôi chính xác hơn.",
+    "options": {
+      "below_10": "< 10 triệu VNĐ",
+      "10_20": "10–20 triệu VNĐ",
+      "20_40": "20–40 triệu VNĐ",
+      "40_80": "40–80 triệu VNĐ",
+      "80_150": "80–150 triệu VNĐ",
+      "above_150": "150 triệu+ VNĐ",
+      "above_150m": "150 triệu+ VNĐ"
+    }
+  },
+  "location": {
+    "title": "Bạn sống ở thành phố nào?",
+    "selection_note": "Chọn 1",
+    "description": "Giúp chúng tôi tìm những người phù hợp ở gần bạn.",
+    "search_placeholder": "Tìm thành phố hoặc tỉnh thành...",
+    "other_city_label": "Thành phố khác",
+    "other_city_placeholder": "Nhập tên thành phố của bạn..."
+  },
+  "looking_for": {
+    "title": "Mục tiêu hẹn hò của bạn?",
+    "selection_note": "Chọn tối thiểu 3",
+    "description": "Hãy chọn những mục tiêu mô tả đúng nhất ý định của bạn. Clique83 sẽ ưu tiên ghép đôi dựa trên các lựa chọn này.",
+    "options": {
+      "marriage": "Kết hôn",
+      "serious": "Hẹn hò nghiêm túc",
+      "dating": "Hẹn hò không ràng buộc",
+      "partner": "Đối tác",
+      "friends": "Bạn bè"
+    },
+    "sub_question": "Bạn có chấp nhận người bạn hoặc đối tác của mình là người cùng giới tính không?",
+    "yes": "Có",
+    "no": "Không"
+  },
+  "review": {
+    "title": "Hồ sơ của bạn",
+    "subtitle": "Đây là những gì chúng tôi đã tìm hiểu về bạn cho đến nay.",
+    "personal_details": "Chi tiết cá nhân",
+    "info_labels": {
+      "gender_preference": "Giới tính & Sở thích",
+      "birthdate": "Ngày sinh",
+      "location": "Vị trí",
+      "education": "Học vấn",
+      "work": "Công việc",
+      "income": "Thu nhập",
+      "intent": "Mục tiêu",
+      "phone": "Số điện thoại"
+    },
+    "seeking": "Tìm kiếm",
+    "member": "Thành viên",
+    "other": "Khác",
+    "change_hint": "Cần thay đổi điều gì đó? <br /> Vui lòng liên hệ bộ phận hỗ trợ để sửa đổi trong giai đoạn truy cập sớm.",
+    "edit_hint": "Muốn thay đổi thông tin? <br /> Bạn có thể quay lại và cập nhật câu trả lời ngay bây giờ.",
+    "sections": {
+      "basic": "Thông tin cơ bản",
+      "basic_desc": "Những yếu tố nền tảng về bạn",
+      "career": "Sự nghiệp & Học vấn",
+      "career_desc": "Hành trình chuyên môn của bạn",
+      "intentions": "Mục tiêu & Kỳ vọng",
+      "intentions_desc": "Điều bạn đang mong chờ?"
+    },
+    "quote": "Tận hưởng khoảnh khắc cùng Clique.",
+    "adjust_info": "Chỉnh sửa thông tin",
+    "looks_good": "QUAY LẠI"
+  },
+  "source": {
+    "title": "Bạn biết đến Clique qua đâu?",
+    "selection_note": "Có thể chọn nhiều",
+    "description": "Chia sẻ để chúng tôi hiểu thêm về cộng đồng của mình.",
+    "options": {
+      "tiktok": "TikTok",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "friends": "Bạn bè",
+      "press": "Báo chí"
+    },
+    "other_label": "Khác",
+    "other_placeholder": "Chia sẻ thêm...",
+    "finish_label": "Hoàn tất"
+  },
+  "target_gender": {
+    "title": "Bạn muốn gặp ai?",
+    "selection_note": "Chọn 1",
+    "description": "Lựa chọn này giúp chúng tôi tìm được đối tượng phù hợp nhất với mong muốn của bạn.",
+    "options": {
+      "men": "Nam",
+      "women": "Nữ",
+      "other": "Khác"
+    },
+    "other_placeholder": "Vui lòng ghi rõ..."
+  },
+  "sections": {
+    "identity": {
+      "title_prefix": "MỌI THỨ BẮT ĐẦU TỪ VIỆC",
+      "title_highlight": "HIỂU BẠN",
+      "title_suffix": "",
+      "description": ""
+    },
+    "background": {
+      "title_1": "",
+      "title_2": "",
+      "description": ""
+    }
+  },
+  "work_field": {
+    "title": "Bạn đang làm trong ngành nào?",
+    "selection_note": "Chọn 1",
+    "description": "Giúp chúng tôi tìm những người có cùng môi trường nghề nghiệp với bạn.",
+    "search_placeholder": "Tìm kiếm lĩnh vực...",
+    "other_label": "Khác",
+    "other_placeholder": "Ghi rõ lĩnh vực của bạn...",
+    "use_search_term": "Sử dụng: \"{{term}}\"",
+    "options": {
+      "accounting": "Kế toán",
+      "architecture": "Kiến trúc",
+      "arts": "Nghệ thuật",
+      "beauty": "Làm đẹp",
+      "sales": "Phát triển kinh doanh",
+      "construction": "Xây dựng",
+      "real_estate": "Bất động sản",
+      "consulting": "Tư vấn",
+      "customer_service": "Chăm sóc khách hàng",
+      "education": "Giáo dục",
+      "engineering": "Kỹ thuật",
+      "entrepreneurship": "Khởi nghiệp",
+      "finance": "Tài chính",
+      "government": "Chính phủ",
+      "healthcare": "Y tế",
+      "hospitality": "Nhà hàng",
+      "hr": "Nhân sự",
+      "insurance": "Bảo hiểm",
+      "legal": "Pháp lý",
+      "logistics": "Logistics",
+      "manufacturing": "Sản xuất",
+      "marketing": "Marketing",
+      "media": "Truyền thông",
+      "ngo": "NGO",
+      "product": "Quản lý sản phẩm",
+      "research": "Nghiên cứu",
+      "retail": "Bán lẻ",
+      "tech": "Công nghệ",
+      "telecom": "Viễn thông",
+      "transport": "Vận tải",
+      "freelancer": "Làm việc tự do",
+      "student": "Sinh viên",
+      "not_working": "Hiện không làm việc"
+    }
+  },
+  "greeting_start": "Chào mừng bạn đến với",
+  "name_location_desc": "Hãy cho chúng tôi biết một chút về thông tin cơ bản của bạn nhé.",
+  "what_is_your_name": "Tên đầy đủ của bạn..",
+  "name_placeholder": "Nhập tên của bạn...",
+  "where_do_you_live": "Bạn đang sống ở thành phố nào?",
+  "location_placeholder": "Tìm kiếm thành phố...",
+  "what_is_your_phone": "Số điện thoại của bạn?",
+  "phone_placeholder": "Ví dụ: 0912345678",
+  "analyzing_profile": "Hệ thống đang xử lý hồ sơ của bạn...",
+  "profile_completed": "Hoàn tất hồ sơ thành công"
+}

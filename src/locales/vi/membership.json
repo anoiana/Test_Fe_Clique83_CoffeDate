@@ -1,0 +1,52 @@
+{
+  "price": "2.000.000đ",
+  "lifetime": "TRỌN ĐỜI",
+  "payment_method": "Phương thức thanh toán",
+  "become_member": "Kích hoạt <1>Ghép đôi ngay</1>",
+  "no_recurring": "Không phí ẩn. Chỉ thanh toán một lần.",
+  "confirm_membership": "Thanh toán",
+  "processing": "Đang kết nối...",
+  "review_profile": "Kiểm tra hồ sơ",
+  "initializing_vnpay": "ĐANG KHỞI TẠO VNPay",
+  "processing_mock": "ĐANG XỬ LÝ THANH TOÁN",
+  "redirecting_vnpay": "ĐANG CHUYỂN HƯỚNG ĐẾN VNPAY",
+  "membership_confirmed": "ĐÃ KÍCH HOẠT GHÉP ĐÔI",
+  "initializing_payos": "ĐANG KHỞI TẠO PAYOS",
+  "waiting_payment": "ĐANG CHỜ THANH TOÁN...",
+  "scan_to_pay": "Quét mã để thanh toán",
+  "payment_successful": "Thanh toán thành công!",
+  "payment_failed": "Thanh toán không thành công",
+  "link_expired": "Mã thanh toán đã hết hạn",
+  "retry": "Thử lại",
+  "redirecting_success": "ĐANG CHUYỂN HƯỚNG...",
+  "session_expired": "Phiên làm việc đã hết hạn. Vui lòng đăng nhập lại.",
+  "syncing_vnpay": "KIỂM TRA GIAO DỊCH",
+  "verification_failed": "Xác minh thất bại",
+  "back_to_payment": "Quay lại Thanh toán",
+  "verified_member": "TRẠNG THÁI: SẴN SÀNG",
+  "continue_profile_completion": "Tiếp tục hoàn thiện hồ sơ",
+  "welcome_circle": "Chào mừng<1/> <2>Đến với Clique 83</2>",
+  "start_evaluation": "Vào danh sách Ghép đôi",
+  "priority_matching_enabled": "BẮT ĐẦU GHÉP ĐÔI",
+  "order_code": "Mã đơn hàng",
+  "open_payos": "Mở trang PayOS",
+  "cancel_transaction": "Huỷ giao dịch",
+  "welcome_msg": "Chào mừng bạn đến với cộng đồng đặc quyền của Clique.",
+  "error_retry_msg": "Rất tiếc, giao dịch không thể hoàn tất. Vui lòng thử lại.",
+  "errors": {
+    "create_failed": "Không thể tạo link thanh toán. Vui lòng thử lại.",
+    "processing_error": "Lỗi xử lý thanh toán"
+  },
+  "admin_review": {
+    "title": "Đang chờ duyệt hồ sơ",
+    "description": "Cảm ơn bạn đã hoàn thành khảo sát! Đội ngũ Clique đang kiểm tra hồ sơ của bạn để đảm bảo chất lượng cộng đồng. Quá trình này thường mất từ 12-24h.",
+    "status": "Trạng thái: Đang chờ duyệt",
+    "back_to_home": "Quay lại trang chủ"
+  },
+  "admin_rejected": {
+    "title": "Hồ sơ chưa phù hợp",
+    "description": "Rất tiếc, hồ sơ của bạn hiện chưa phù hợp với tiêu chuẩn cộng đồng của Clique. Lý do: {{reason}}",
+    "status": "Trạng thái: Đã từ chối",
+    "contact_support": "Liên hệ hỗ trợ"
+  }
+}

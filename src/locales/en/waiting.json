@@ -1,0 +1,13 @@
+{
+  "awaiting_response": "Awaiting Response",
+  "great_choice": "Great Choice!",
+  "waiting_for_match": "Now we're waiting for {{name}} to pick their preferred times.",
+  "syncing": "Syncing Schedules...",
+  "overlap_notif": "Once {{name}} selects their availability, we'll find the perfect overlap and notify you immediately.",
+  "notify_her": "Notify Her",
+  "send_note": "Send Note",
+  "timing_desc": "This usually takes less than 24 hours. We'll send a push notification when it's ready.",
+  "refresh_status": "Refresh Status",
+  "clique_experience": "Clique Experience",
+  "status": "Status"
+}

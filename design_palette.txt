@@ -1,0 +1,16 @@
+=========================================================================
+📜 COFFEEDATE — THE RITUAL DESIGN PALETTE (BẢNG MÀU CHÍNH)
+=========================================================================
+
+| Tên màu               | Mã Hex  | Tailwind Class              | Mục đích sử dụng                                |
+|-----------------------|---------|-----------------------------|-------------------------------------------------|
+| Paper (Giấy)          | #F4EBDD | bg-background-paper         | Nền chính của toàn bộ ứng dụng.                 |
+| Paper Warm            | #EFE2D0 | bg-background-warm          | Nền cho các thẻ (cards), ô nhập liệu (inputs).  |
+| Ink (Mực)             | #2F241D | text-ink                    | Màu chữ chính, tiêu đề (sử dụng với opacity).   |
+| Burgundy (Rượu vang)  | #7A2E2E | bg-primary / text-primary   | Màu thương hiệu, nút bấm (CTA), Active state.   |
+| Kraft (Giấy Kraft)    | #CDAA7D | bg-kraft                    | Thanh tiến trình (progress bar), điểm nhấn phụ. |
+| Divider (Đường kẻ)    | #D5C2AE | border-divider              | Đường kẻ phân cách, viền các component.         |
+
+---
+Vị trí file gốc: src/styles/design-tokens.css
+=========================================================================

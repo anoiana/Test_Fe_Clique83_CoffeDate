@@ -1,0 +1,57 @@
+{
+  "steps": {
+    "value": {
+      "modal_title": "THE VALUE",
+      "title": "A DIFFERENT WAY TO FIND CONNECTION",
+      "desc": "Instead of endless swiping, Clique sends you one carefully selected match each week. Someone who actually fits your life, not just your preferences."
+    },
+    "intake": {
+      "modal_title": "INITIAL SURVEY",
+      "title": "START WITH A QUICK INTRODUCTION",
+      "desc": "In just 1–2 minutes, share a few basic details about yourself and what you're looking for. This helps Clique understand your direction."
+    },
+    "membership": {
+      "modal_title": "MEMBERSHIP",
+      "title": "BECOME A CLIQUE MEMBER",
+      "desc": "A small membership (650,000đ / 3 months) gives you access to a high-quality environment. It ensures everyone you meet is intentional and ready to show up."
+    },
+    "matching": {
+      "modal_title": "IN-DEPTH MATCHING",
+      "title": "WE GET TO KNOW YOU DEEPLY",
+      "desc": "Answer questions about your values and lifestyle. This allows Clique to filter thousands of profiles and select the one that fits you best."
+    },
+    "weekly_match": {
+      "modal_title": "YOUR WEEKLY MATCH",
+      "title": "ONE MATCH. EVERY WEEK.",
+      "desc": "Each week, you’ll receive one carefully curated match, along with the reason why you two could work. You have 7 days to decide if you want to meet."
+    },
+    "payment": {
+      "modal_title": "DATE PAYMENT",
+      "title": "SECURE YOUR MEETING",
+      "desc": "Once you both agree to meet, a small reservation fee (120,000đ) is required to ensure intentionality. This leads to scheduling the final time and place."
+    },
+    "meeting_flow": {
+      "modal_title": "MEETING FLOW",
+      "title": "FROM MATCH TO REAL MEETING",
+      "desc": "If both choose to meet, Clique arranges the time, place, and setting. You simply focus on the conversation, everything else is handled."
+    }
+  },
+  "how_match_works": {
+    "data_depth": {
+      "title": "DEEP DATA ANALYSIS",
+      "desc": "We don't just look at age or location. We analyze your values, personality traits, and life goals to find true compatibility."
+    },
+    "psychological_fit": {
+      "title": "PSYCHOLOGICAL FIT",
+      "desc": "Our logic factors in complementary traits—like how your warmth balances their steadiness—to ensure a relationship that feels grounded."
+    },
+    "human_curation": {
+      "title": "HUMAN-AI SYNERGY",
+      "desc": "Clique combines advanced matching logic with high-level human curation to verify that every connection is meaningful."
+    }
+  },
+  "get_started": "Get Started",
+  "next_step": "Next Step",
+  "mode_app_flow": "App Flow",
+  "mode_matching": "Matching Logic"
+}

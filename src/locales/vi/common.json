@@ -1,0 +1,55 @@
+{
+  "slide_to_select": "Trượt để thay đổi",
+  "cities": {
+    "hcm": "TP. Hồ Chí Minh",
+    "hanoi": "Hà Nội",
+    "danang": "Đà Nẵng"
+  },
+  "match_fallback": "Đối phương",
+  "not_specified": "Chưa cung cấp",
+  "back": "Quay lại",
+  "continue": "Tiếp tục",
+  "next": "Tiếp theo",
+  "skip": "Bỏ qua",
+  "retry": "Thử lại",
+  "someone": "ai đó",
+  "select_all": "Chọn tất cả",
+  "deselect_all": "Bỏ chọn tất cả",
+  "finish": "Hoàn thành",
+  "edit": "Chỉnh sửa",
+  "save": "Lưu",
+  "cancel": "Hủy",
+  "loading": "Đang tải...",
+  "processing": "Đang xử lý...",
+  "error": "Đã xảy ra lỗi",
+  "success_operation": "Thao tác thành công",
+  "incomplete_form_toast": "Vui lòng hoàn thành tất cả các câu hỏi để tiếp tục.",
+  "validation": {
+    "required": "Trường này là bắt buộc",
+    "min_length": "Tối thiểu {{count}} ký tự",
+    "max_length": "Tối đa {{count}} ký tự",
+    "numbers_only": "Vui lòng chỉ nhập số",
+    "phone_min": "Số điện thoại phải có ít nhất 10 số",
+    "phone_max": "Số điện thoại không được quá 12 số"
+  },
+  "selection_note_type": "Đây là cách nội dung sẽ hiển thị trên hồ sơ. Bạn sẽ không thể thay đổi về sau",
+  "selection": {
+    "single": "Chọn 1",
+    "multiple": "Chọn nhiều",
+    "up_to": "Chọn tối đa {{count}}"
+  },
+  "days": {
+    "sun": "CN",
+    "mon": "T2",
+    "tue": "T3",
+    "wed": "T4",
+    "thu": "T5",
+    "fri": "T6",
+    "sat": "T7"
+  },
+  "periods": {
+    "morning": "Sáng",
+    "noon": "Trưa",
+    "evening": "Tối"
+  }
+}

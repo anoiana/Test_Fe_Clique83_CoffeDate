@@ -1,0 +1,30 @@
+{
+  "title": "SETTINGS",
+  "profile": {
+    "title": "Profile"
+  },
+  "matching_service": {
+    "title": "Matching Service",
+    "mode_label": "Matching Mode",
+    "searching": "Searching",
+    "resting": "Resting",
+    "desc_searching": "System will automatically analyze and match you with suitable partners daily.",
+    "desc_resting": "You will temporarily stop receiving new match requests from the system.",
+    "pool_active": "RETURNED TO MATCHING POOL",
+    "pool_inactive": "MATCHING POOL PAUSED",
+    "update_error": "Failed to update status. Please try again."
+  },
+  "app_settings": {
+    "title": "App",
+    "language": "Language",
+    "notifications": "Notifications",
+    "security": "Security",
+    "on": "On",
+    "off": "Off",
+    "review_profile": "Review Profile",
+    "help": "Help & Support"
+  },
+  "auth": {
+    "logout": "Logout"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slide_to_select": "Slide to change",
+  "cities": {
+    "hcm": "Ho Chi Minh City",
+    "hanoi": "Hanoi",
+    "danang": "Da Nang"
+  },
+  "match_fallback": "Your Match",
+  "not_specified": "Not specified",
+  "back": "Back",
+  "continue": "Continue",
+  "next": "Next",
+  "skip": "Skip",
+  "retry": "Try Again",
+  "someone": "someone",
+  "select_all": "Select All",
+  "deselect_all": "Deselect All",
+  "finish": "Finish",
+  "edit": "Edit",
+  "save": "Save",
+  "cancel": "Cancel",
+  "loading": "Loading...",
+  "processing": "Processing...",
+  "error": "An error occurred",
+  "success_operation": "Operation Successful",
+  "incomplete_form_toast": "Please complete all questions to continue.",
+  "validation": {
+    "required": "This field is required",
+    "min_length": "Minimum {{count}} characters",
+    "max_length": "Maximum {{count}} characters",
+    "numbers_only": "Numbers only",
+    "phone_min": "Phone number must be at least 10 digits",
+    "phone_max": "Phone number cannot exceed 12 digits"
+  },
+  "selection_note_type": "This is how it will appear on your profile. You won't be able to change it later",
+  "selection": {
+    "single": "Select 1",
+    "multiple": "Select Multiple",
+    "up_to": "Select Up to {{count}}"
+  },
+  "days": {
+    "sun": "Sun",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat"
+  },
+  "periods": {
+    "morning": "Morning",
+    "noon": "Noon",
+    "evening": "Evening"
+  }
+  }
+

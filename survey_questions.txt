@@ -1,0 +1,66 @@
+DANH SÁCH CÂU HỎI KHẢO SÁT CLIQUE83 (CẬP NHẬT CHÍNH XÁC THEO GIAO DIỆN)
+
+--- ROUND 2: KHẢO SÁT GHÉP ĐÔI (MATCHING SURVEY) ---
+Vòng này gồm 7 phần, tập trung vào các tiêu chí để tìm đối tượng phù hợp.
+
+PHẦN 1: GIÁ TRỊ CỐT LÕI
+1. Điều gì là ưu tiên hàng đầu trong cuộc sống của bạn? (Chọn tối đa 5 giá trị: Gia đình, Sự nghiệp, Tài chính, Tự do, v.v.)
+2. Bạn là người sống theo kế hoạch hay thích sự ngẫu hứng? (Kéo thanh trượt 1-5)
+3. Bạn thường đưa ra những quyết định quan trọng dựa trên lý trí hay cảm xúc? (Lý trí, Cảm xúc, Cân bằng)
+
+PHẦN 2: TIÊU CHUẨN KẾT ĐÔI
+4. Bạn mong muốn gặp gỡ người trong độ tuổi nào? (Nhập số Từ - Đến + Lựa chọn cởi mở nếu hợp nhau)
+
+PHẦN 3: CÁ TÍNH KẾT NỐI
+5. Mức độ năng lượng xã hội của bạn? (Hướng nội - Hướng ngoại, kéo thanh trượt 1-5)
+6. Trong tình yêu, bạn thường là người như thế nào? (Kiểu gắn kết: Tự tin, Nhạy cảm, Độc lập, Chưa rõ)
+7. Khi có điều gì đó làm bạn phiền lòng, bạn thường... (Trực tiếp, Cần thời gian, Nhẹ nhàng, Tránh xung đột)
+8. Bạn cảm thấy được yêu thương nhất khi đối phương làm gì? (Ngôn ngữ tình yêu, chọn tối đa 2: Lời nói, Thời gian, Hành động, Chạm, Quà tặng)
+
+PHẦN 4: DIỆN MẠO & LỐI SỐNG
+9. Mức độ vận động của bạn? (Cơ bản - Năng động, kéo thanh trượt 1-5)
+10. Chiều cao của bạn (cm)? (Nhập số)
+
+PHẦN 5: SỞ THÍCH & ĐAM MÊ
+11. Bạn thích cùng 'người ấy' trải nghiệm điều gì nhất? (Chọn các hoạt động: Du lịch, Thể thao, Đọc sách, Cafe, v.v.)
+
+PHẦN 6: NGUỒN CỘI & NIỀM TIN
+12. Bạn sinh ra và lớn lên trong môi trường văn hóa nào?
+13. Quốc tịch của bạn là gì?
+14. Tôn giáo của bạn là gì?
+15. Bạn có thể giao tiếp tự tin bằng những ngôn ngữ nào?
+
+PHẦN 7: DẤU ẤN CÁ NHÂN
+16. Mức độ cởi mở với sự khác biệt? (Đồng điệu - Bù trừ, kéo thanh trượt 1-5)
+17. Mô tả ngắn gọn về bản thân bạn (Bio - tối thiểu 10 ký tự).
+
+
+--- ROUND 3: KHẢO SÁT CHUYÊN SÂU (DEEP DIVE SURVEY) ---
+Vòng này gồm 4 phần, đi sâu vào các quan điểm thực tế và nghiêm túc.
+
+PHẦN 1: ĐỊNH HƯỚNG & NIỀM TIN
+1. Quan điểm của bạn về tài chính? (Kỹ lưỡng, Hưởng thụ, Đầu tư, Cân bằng, Tự do)
+2. Bạn đang ở giai đoạn nào của cuộc sống? (Khám phá, Sự nghiệp, Ổn định, Lập gia đình, Chuyển giao)
+3. Dự định của bạn về con cái? (Muốn có, Không muốn, Đã có, Cởi mở)
+4. Tôn giáo có quan trọng trong cuộc sống của bạn không? (Kéo thanh trượt 1-5)
+5. Bạn có tin vào tâm linh, tử vi không? (Kéo thanh trượt 1-5)
+
+PHẦN 2: NỀN TẢNG CÁ NHÂN
+6. Tình trạng hiện tại của bạn? (Độc thân, Ly hôn, Góa, Ly thân)
+7. Bạn có ngại hẹn hò với người đã từng ly hôn không? (Có, Không, Tùy trường hợp)
+8. Trình độ học vấn cao nhất của bạn là gì?
+9. Lĩnh vực bạn đang làm việc?
+
+PHẦN 3: LỐI SỐNG & THÓI QUEN
+10. Chế độ ăn uống của bạn? (Bình thường, Ăn chay, Thuần chay, Halal)
+11. Quan điểm của bạn về thú cưng? (Yêu thích, Thấy ổn, Không nuôi, Dị ứng)
+12. Mức độ hút thuốc của bạn? (Không bao giờ, Xã giao, Thỉnh thoảng, Thường xuyên)
+13. Bạn có chấp nhận đối tác hút thuốc không? (Có, Không, Tùy trường hợp)
+14. Mức độ uống rượu bia của bạn? (Không bao giờ, Xã giao, Thỉnh thoảng, Thường xuyên)
+15. Bạn có chấp nhận đối tác thường xuyên nhậu không? (Được chứ, Không thích, Có chừng mực)
+
+PHẦN 4: CÁ NHÂN HÓA HỒ SƠ
+16. Nhóm tính cách (MBTI) của bạn là gì?
+17. 3 từ mô tả về bạn.
+18. Liên kết mạng xã hội (Facebook, Instagram, LinkedIn).
+19. Có điều gì khác bạn muốn chia sẻ không?

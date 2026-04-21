@@ -1,0 +1,16 @@
+{
+  "view_process": "View process",
+  "switch_to_en": "Switch to English",
+  "switch_to_vi": "Chuyển sang Tiếng Việt",
+  "settings": "Settings",
+  "logout": "Logout",
+  "help": "Help",
+  "profile_review": "Profile Review",
+  "member_status": "Member Status",
+  "matching_pool": "Matching Status",
+  "matching_pool_active": "ACTIVE",
+  "matching_pool_paused": "PAUSED",
+  "matching_pool_active_desc": "Finding candidates for you",
+  "matching_pool_paused_desc": "Pause receiving new requests",
+  "language": "Language"
+}

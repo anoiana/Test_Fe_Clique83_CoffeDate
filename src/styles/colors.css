@@ -1,0 +1,135 @@
+/* =========================================================================
+   🎯 COFFEEDATE — RITUAL COLOR UTILITIES & COMPONENT PRESETS
+   =========================================================================
+   Built from design-tokens.css. Change colors there, effects update here.
+   ========================================================================= */
+
+@layer components {
+
+  /* ═══════════════════════════════════════════════════════════════════════
+     BURGUNDY GLOW SHADOWS
+     ═══════════════════════════════════════════════════════════════════════ */
+
+  .glow-gold-sm { box-shadow: var(--shadow-golden-sm); }
+  .glow-gold-md { box-shadow: var(--shadow-golden-md); }
+  .glow-gold-lg { box-shadow: var(--shadow-golden-lg); }
+  .glow-gold-xl { box-shadow: var(--shadow-golden-xl); }
+  .glow-gold-btn { box-shadow: var(--shadow-golden-btn); }
+  .glow-gold-btn-lg { box-shadow: var(--shadow-golden-btn-lg); }
+  .glow-gold-btn-hover:hover { box-shadow: var(--shadow-golden-btn-hover); }
+
+  /* ═══════════════════════════════════════════════════════════════════════
+     BUTTON PRESETS — Ritual Capsule Style
+     ═══════════════════════════════════════════════════════════════════════ */
+
+  /* ─── Primary CTA — Burgundy Capsule ─── */
+  .btn-cta-primary {
+    width: 100%;
+    padding: 1.125rem 2rem;
+    border-radius: var(--radius-pill-lg);
+    background-color: var(--c-primary);
+    color: var(--c-background);
+    font-family: var(--font-sans);
+    font-weight: var(--fw-bold);
+    font-size: var(--fs-lg);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wider);
+    box-shadow: var(--shadow-burgundy);
+    transition: all 0.3s ease;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+  }
+
+  .btn-cta-primary:hover {
+    background-color: var(--c-primary-dark);
+    box-shadow: var(--shadow-golden-btn-hover);
+    transform: translateY(-1px);
+  }
+
+  .btn-cta-primary:active {
+    background-color: var(--c-primary-dark);
+    transform: scale(0.97);
+  }
+
+  /* ─── Secondary CTA — Paper with Ink Text ─── */
+  .btn-cta-secondary {
+    width: 100%;
+    padding: 1.125rem 2rem;
+    border-radius: var(--radius-pill-lg);
+    background-color: var(--c-surface);
+    color: var(--c-text-main);
+    font-family: var(--font-sans);
+    font-weight: var(--fw-bold);
+    font-size: var(--fs-lg);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wider);
+    box-shadow: var(--shadow-paper);
+    border: 1px solid var(--c-divider);
+    transition: all 0.3s ease;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+  }
+
+  /* ─── Ghost CTA — Transparent with subtle border ─── */
+  .btn-cta-ghost {
+    padding: 1rem 2rem;
+    background-color: transparent;
+    border: 1px solid var(--c-divider);
+    border-radius: var(--radius-pill);
+    color: var(--c-text-main);
+    font-family: var(--font-sans);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    font-size: var(--fs-sm);
+    transition: all 0.2s;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+  }
+
+  .btn-cta-ghost:hover {
+    background-color: var(--c-ink-a05);
+    border-color: var(--c-highlight);
+  }
+
+  /* ═══════════════════════════════════════════════════════════════════════
+     CARD STATES — Selection & Highlight
+     ═══════════════════════════════════════════════════════════════════════ */
+
+  /* ─── Card Selected (Burgundy Active) ─── */
+  .card-selected {
+    background-color: var(--c-primary);
+    border-color: var(--c-primary);
+    color: var(--c-background);
+    box-shadow: var(--shadow-burgundy);
+  }
+
+  /* ─── Card Option Active ─── */
+  .card-option-active {
+    background-color: var(--c-primary);
+    border-color: var(--c-primary);
+    color: var(--c-background);
+    box-shadow: var(--shadow-burgundy);
+  }
+
+  /* ─── Card Review Highlight ─── */
+  .card-review-highlight {
+    background-color: var(--c-surface);
+    border-color: var(--c-divider);
+    box-shadow: var(--shadow-card);
+  }
+
+  /* ═══════════════════════════════════════════════════════════════════════
+     TEXT EFFECTS
+     ═══════════════════════════════════════════════════════════════════════ */
+
+  .text-glow-gold {
+    filter: drop-shadow(0 0 10px var(--c-primary-a80));
+  }
+}

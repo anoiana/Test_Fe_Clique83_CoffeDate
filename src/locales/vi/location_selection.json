@@ -1,0 +1,14 @@
+{
+  "title": "Chọn địa điểm",
+  "subtitle": "Chọn 5 quán cà phê yêu thích cho buổi hẹn",
+  "info": "Clique sẽ tự động tìm địa điểm chung phù hợp nhất dựa trên lựa chọn của bạn và đối phương.",
+  "selected": "Đã chọn",
+  "submit": "Xác nhận 5 địa điểm",
+  "max_error": "Bạn chỉ có thể chọn tối đa 5 địa điểm.",
+  "min_error": "Vui lòng chọn ít nhất 5 quán cà phê ưa thích.",
+  "fetch_error": "Lỗi khi tải danh sách địa điểm.",
+  "submit_success": "ĐÃ LƯU TÙY CHỌN ĐỊA ĐIỂM!",
+  "submitting": "ĐANG GỬI LỰA CHỌN CỦA BẠN",
+  "error_submitting": "Lỗi khi gửi lựa chọn.",
+  "loading_locations": "ĐANG TẢI DANH SÁCH QUÁN CÀ PHÊ"
+}

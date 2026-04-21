@@ -1,0 +1,21 @@
+{
+  "EMAIL_TAKEN": "Email này đã được sử dụng. Vui lòng chọn email khác.",
+  "INVALID_CREDENTIALS": "Email hoặc mật khẩu không chính xác.",
+  "USER_NOT_FOUND": "Không tìm thấy người dùng.",
+  "EXPIRED_OTP": "Mã OTP đã hết hạn. Vui lòng gửi lại mã mới.",
+  "OTP_EXPIRED": "Mã OTP đã hết hạn. Vui lòng gửi lại mã mới.",
+  "INVALID_OTP": "Mã OTP không chính xác.",
+  "INTERNAL_SERVER_ERROR": "Hệ thống đang gặp sự cố. Vui lòng thử lại sau.",
+  "NETWORK_ERROR": "Không có kết nối internet. Vui lòng kiểm tra lại mạng.",
+  "UNAUTHORIZED": "Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại.",
+  "ACCOUNT_LOCKED": "Tài khoản của bạn đã bị khóa tạm thời.",
+  "PASSWORD_TOO_WEAK": "Mật khẩu quá yếu. Vui lòng sử dụng ít nhất 8 ký tự.",
+  "PASSWORD_NOT_SET_USE_GOOGLE": "Tài khoản của bạn đã được liên kết với Google. Vui lòng sử dụng nút 'Đăng nhập bằng Google' ở bên dưới.",
+  "GENERIC_ERROR": "Đã xảy ra lỗi không xác định.",
+  "REQUIRED_FIELD": "Vui lòng hoàn thành câu trả lời này.",
+  "MIN_3_REQUIRED": "Vui lòng chọn tối thiểu 3 lựa chọn để tiếp tục.",
+  "MIN_LENGTH_2": "Vui lòng nhập ít nhất 2 ký tự.",
+  "INVALID_BIRTHDATE": "Vui lòng nhập ngày sinh hợp lệ (DD/MM/YYYY).",
+  "UNDERAGE": "Bạn phải đủ 21 tuổi để tham gia.",
+  "REQUIRED_LOCATION": "Vui lòng chọn thành phố bạn đang sống."
+}

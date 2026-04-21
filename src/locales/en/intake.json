@@ -1,0 +1,199 @@
+{
+  "steps": {
+    "step_1": "Step 1 of 3",
+    "step_2": "Step 2 of 3",
+    "step_3": "Step 3 of 3"
+  },
+  "birthdate": {
+    "title": "Your date of birth?",
+    "selection_note": "Please enter it accurately — your date of birth affects how we match you.",
+    "error": "You must be 21 or older to join our community.",
+    "placeholder": "DD/MM/YYYY"
+  },
+  "education": {
+    "title": "Your highest education level?",
+    "selection_note": "Select 1",
+    "description": "Select the highest degree or qualification you have achieved.",
+    "options": {
+      "secondary": "Secondary school",
+      "highschool": "High school",
+      "associate": "Associate Degree",
+      "bachelor": "Bachelor's Degree",
+      "master": "Master's Degree",
+      "phd": "PhD",
+      "other": "Other"
+    },
+    "other_placeholder": "Specify your education level..."
+  },
+  "gender": {
+    "title": "Your gender?",
+    "selection_note": "Select 1",
+    "description": "Please select your gender identity. This helps us find the most compatible matches for your identity.",
+    "options": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "other_placeholder": "Please specify your identity..."
+  },
+  "income": {
+    "title": "Your monthly income?",
+    "selection_note": "Select 1",
+    "description": "This remains strictly confidential and will not be displayed on your profile.",
+    "options": {
+      "below_10": "<10M VND",
+      "10_20": "10–20M VND",
+      "20_40": "20–40M VND",
+      "40_80": "40–80M VND",
+      "80_150": "80–150M VND",
+      "above_150": "150M+ VND",
+      "above_150m": "150M+ VND"
+    }
+  },
+  "location": {
+    "title": "Which city do you live in?",
+    "selection_note": "Select 1",
+    "description": "This helps us find compatible matches near you.",
+    "search_placeholder": "Search province...",
+    "other_city_label": "Other City",
+    "other_city_placeholder": "Type your city name..."
+  },
+  "looking_for": {
+    "title": "What are you looking for on Clique83?",
+    "selection_note": "Select at least 3",
+    "description": "Select the goals that best describe your intentions. Clique83 will prioritize matches based on these.",
+    "options": {
+      "marriage": "Marriage",
+      "serious": "Serious relationship",
+      "dating": "Casual dating",
+      "partner": "Business partner",
+      "friends": "New friends"
+    },
+    "sub_question": "Are you open to having friends or business partners of the same gender?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "review": {
+    "title": "Your Profile",
+    "subtitle": "This is what we've learned about you so far.",
+    "personal_details": "Personal Details",
+    "info_labels": {
+      "gender_preference": "Gender & Preference",
+      "birthdate": "Birthdate",
+      "location": "Location",
+      "education": "Education",
+      "work": "Work",
+      "income": "Income",
+      "intent": "Intent"
+    },
+    "seeking": "Seeking",
+    "member": "Member",
+    "other": "Other",
+    "change_hint": "Need to change something? <br /> Please contact support for corrections during early access.",
+    "edit_hint": "Want to adjust something? <br /> You can go back and update your answers now.",
+    "sections": {
+      "basic": "Basic Information",
+      "basic_desc": "The foundational elements about you",
+      "career": "Career & Education",
+      "career_desc": "Your professional journey",
+      "intentions": "Goals & Expectations",
+      "intentions_desc": "What are you looking for?"
+    },
+    "quote": "Enjoy the moments with Clique.",
+    "adjust_info": "Adjust Information",
+    "looks_good": "Looks Good"
+  },
+  "source": {
+    "title": "How did you hear about us?",
+    "selection_note": "Select multiple",
+    "description": "Help us understand how you found our community.",
+    "options": {
+      "tiktok": "TikTok",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "friends": "Friends",
+      "press": "Press"
+    },
+    "other_label": "Other",
+    "other_placeholder": "Tell us more...",
+    "finish_label": "Finish Survey"
+  },
+  "target_gender": {
+    "title": "Who would you like to meet?",
+    "selection_note": "Select 1",
+    "description": "This choice helps us find the best match for your expectations.",
+    "options": {
+      "men": "Men",
+      "women": "Women",
+      "other": "Other"
+    },
+    "other_placeholder": "Please specify..."
+  },
+  "sections": {
+    "identity": {
+      "title_prefix": "IT STARTS WITH UNDERSTANDING",
+      "title_highlight": "YOU",
+      "title_suffix": "",
+      "description": ""
+    },
+    "background": {
+      "title_1": "",
+      "title_2": "",
+      "description": ""
+    }
+  },
+  "work_field": {
+    "title": "Which industry do you work in?",
+    "selection_note": "Select 1",
+    "description": "Helps us find people who share a similar professional environment.",
+    "search_placeholder": "Search field...",
+    "other_label": "Other",
+    "other_placeholder": "Specify your field...",
+    "use_search_term": "Use: \"{{term}}\"",
+    "options": {
+      "accounting": "Accounting, Audit",
+      "architecture": "Architecture, Interior Design",
+      "arts": "Arts, Culture",
+      "beauty": "Beauty, Cosmetics",
+      "sales": "Business Development, Sales",
+      "construction": "Construction",
+      "real_estate": "Real Estate",
+      "consulting": "Consulting",
+      "customer_service": "Customer Service",
+      "education": "Education, Training",
+      "engineering": "Engineering",
+      "entrepreneurship": "Entrepreneurship, Business Owner",
+      "finance": "Finance, Banking, Investment",
+      "government": "Government, Public Sector",
+      "healthcare": "Healthcare, Medical, Pharmacy",
+      "hospitality": "Hospitality, F&B, Tourism",
+      "hr": "HR, Recruitment",
+      "insurance": "Insurance",
+      "legal": "Legal",
+      "logistics": "Logistics, Supply Chain",
+      "manufacturing": "Manufacturing",
+      "marketing": "Marketing, Advertising, PR",
+      "media": "Media, Content, Entertainment",
+      "ngo": "NGO, Non-profit, Social Impact",
+      "product": "Product, Project Management",
+      "research": "Research, Academia",
+      "retail": "Retail, E-commerce",
+      "tech": "Tech, IT, Software",
+      "telecom": "Telecommunications",
+      "transport": "Transportation",
+      "freelancer": "Freelancer, Self-employed",
+      "student": "Student",
+      "not_working": "Not currently working"
+    }
+  },
+  "greeting_start": "Welcome to",
+  "name_location_desc": "Let us know a bit about your basic information.",
+  "what_is_your_name": "What is your name?",
+  "name_placeholder": "Enter your name or nickname...",
+  "where_do_you_live": "Which city do you live in?",
+  "location_placeholder": "Search city...",
+  "what_is_your_phone": "Your phone number?",
+  "phone_placeholder": "e.g., 0912345678",
+  "analyzing_profile": "Analyzing your profile...",
+  "profile_completed": "Profile completed successfully"
+}
