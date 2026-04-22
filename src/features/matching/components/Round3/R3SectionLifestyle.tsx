@@ -23,13 +23,13 @@ export const R3SectionLifestyle: React.FC<R3SectionLifestyleProps> = ({ onNext, 
 
   // Validation logic
   const errorsList: string[] = [];
-  
+
   const isDietError = !diet;
   if (isDietError) errorsList.push('group-diet');
-  
+
   const isPetError = !petPreference;
   if (isPetError) errorsList.push('group-pet');
-  
+
   const isSmokingError = !smoking;
   if (isSmokingError) errorsList.push('group-smoking');
 
@@ -56,12 +56,12 @@ export const R3SectionLifestyle: React.FC<R3SectionLifestyleProps> = ({ onNext, 
       errorFields={errorsList}
     >
       <div className="space-y-12 pb-10">
-        
+
         {/* Diet */}
-        <SurveyFieldGroup 
+        <SurveyFieldGroup
           id="group-diet"
-          label={t('matching.round2.diet.title', 'Chế độ ăn uống của bạn?')} 
-          selectionMode="single" 
+          label={t('matching.round2.diet.title', 'Chế độ ăn uống của bạn?')}
+          selectionMode="single"
           error={isDietError}
         >
           <div className="flex flex-wrap gap-2.5">
@@ -84,10 +84,10 @@ export const R3SectionLifestyle: React.FC<R3SectionLifestyleProps> = ({ onNext, 
         </SurveyFieldGroup>
 
         {/* Pet Attitude */}
-        <SurveyFieldGroup 
+        <SurveyFieldGroup
           id="group-pet"
-          label={t('matching.round2.pet_preference.title', 'Quan điểm của bạn về thú cưng?')} 
-          selectionMode="single" 
+          label={t('matching.round2.pet_preference.title', 'Quan điểm của bạn về thú cưng?')}
+          selectionMode="single"
           error={isPetError}
         >
           <div className="flex flex-wrap gap-2.5">
@@ -109,78 +109,75 @@ export const R3SectionLifestyle: React.FC<R3SectionLifestyleProps> = ({ onNext, 
         </SurveyFieldGroup>
 
         {/* Smoking */}
-        <div className={`bg-background-warm/30 rounded-3xl p-6 border border-divider/40 space-y-8 ${(isSmokingError || isAcceptSmokerError) ? 'ring-1 ring-red-500/10 bg-red-500/5' : ''}`}>
-          <SurveyFieldGroup 
-            id="group-smoking"
-            label={t('matching.round2.habits.smoking.title', 'Mức độ hút thuốc của bạn?')} 
-            selectionMode="single" 
-            error={isSmokingError}
-          >
-            <div className="flex flex-wrap gap-2.5">
-              {[
-                { id: 'never', label: t('matching.round2.habits.smoking.options.never', 'Never') },
-                { id: 'socially', label: t('matching.round2.habits.smoking.options.socially', 'Socially') },
-                { id: 'occasionally', label: t('matching.round2.habits.smoking.options.occasionally', 'Occasionally') },
-                { id: 'regularly', label: t('matching.round2.habits.smoking.options.regularly', 'Regularly') }
-              ].map((opt) => (
-                <OptionButton key={opt.id} label={opt.label} selected={smoking === opt.label} onClick={() => setValue('smoking', opt.label, { shouldValidate: true })} size="sm" />
-              ))}
-            </div>
-          </SurveyFieldGroup>
-          <SurveyFieldGroup 
-            id="group-accept-smoker"
-            label={t('matching.round2.habits.accept_smoker.title', 'Bạn có chấp nhận đối tác hút thuốc không?')} 
-            selectionMode="single" 
-            error={isAcceptSmokerError}
-          >
-            <div className="flex flex-wrap gap-2.5">
-              {[
-                { id: 'yes', label: t('matching.round2.habits.accept_smoker.options.yes', 'Yes') },
-                { id: 'no', label: t('matching.round2.habits.accept_smoker.options.no', 'No') },
-                { id: 'depends', label: t('matching.round2.habits.accept_smoker.options.depends', 'Depends') }
-              ].map((opt) => (
-                <OptionButton key={opt.id} label={opt.label} selected={acceptSmoker === opt.label} onClick={() => setValue('acceptSmoker', opt.label, { shouldValidate: true })} size="sm" />
-              ))}
-            </div>
-          </SurveyFieldGroup>
-        </div>
+        <SurveyFieldGroup
+          id="group-smoking"
+          label={t('matching.round2.habits.smoking.title', 'Mức độ hút thuốc của bạn?')}
+          selectionMode="single"
+          error={isSmokingError}
+        >
+          <div className="flex flex-wrap gap-2.5">
+            {[
+              { id: 'never', label: t('matching.round2.habits.smoking.options.never', 'Never') },
+              { id: 'socially', label: t('matching.round2.habits.smoking.options.socially', 'Socially') },
+              { id: 'occasionally', label: t('matching.round2.habits.smoking.options.occasionally', 'Occasionally') },
+              { id: 'regularly', label: t('matching.round2.habits.smoking.options.regularly', 'Regularly') }
+            ].map((opt) => (
+              <OptionButton key={opt.id} label={opt.label} selected={smoking === opt.label} onClick={() => setValue('smoking', opt.label, { shouldValidate: true })} size="sm" />
+            ))}
+          </div>
+        </SurveyFieldGroup>
+        <SurveyFieldGroup
+          id="group-accept-smoker"
+          label={t('matching.round2.habits.accept_smoker.title', 'Bạn có chấp nhận đối tác hút thuốc không?')}
+          selectionMode="single"
+          error={isAcceptSmokerError}
+        >
+          <div className="flex flex-wrap gap-2.5">
+            {[
+              { id: 'yes', label: t('matching.round2.habits.accept_smoker.options.yes', 'Yes') },
+              { id: 'no', label: t('matching.round2.habits.accept_smoker.options.no', 'No') },
+              { id: 'depends', label: t('matching.round2.habits.accept_smoker.options.depends', 'Depends') }
+            ].map((opt) => (
+              <OptionButton key={opt.id} label={opt.label} selected={acceptSmoker === opt.label} onClick={() => setValue('acceptSmoker', opt.label, { shouldValidate: true })} size="sm" />
+            ))}
+          </div>
+        </SurveyFieldGroup>
+
 
         {/* Drinking */}
-        <div className={`bg-background-warm/30 rounded-3xl p-6 border border-divider/40 space-y-8 ${(isDrinkingError || isAcceptDrinkingError) ? 'ring-1 ring-red-500/10 bg-red-500/5' : ''}`}>
-          <SurveyFieldGroup 
-            id="group-drinking"
-            label={t('matching.round2.habits.drinking.title', 'Mức độ uống rượu bia của bạn?')} 
-            selectionMode="single" 
-            error={isDrinkingError}
-          >
-            <div className="flex flex-wrap gap-2.5">
-              {[
-                { id: 'never', label: t('matching.round2.habits.drinking.options.never', 'Never') },
-                { id: 'occasionally', label: t('matching.round2.habits.drinking.options.occasionally', 'Occasionally') },
-                { id: 'socially', label: t('matching.round2.habits.drinking.options.socially', 'Socially') },
-                { id: 'regularly', label: t('matching.round2.habits.drinking.options.regularly', 'Regularly') }
-              ].map((opt) => (
-                <OptionButton key={opt.id} label={opt.label} selected={drinking === opt.label} onClick={() => setValue('drinking', opt.label, { shouldValidate: true })} size="sm" />
-              ))}
-            </div>
-          </SurveyFieldGroup>
-          <SurveyFieldGroup 
-            id="group-accept-drinking"
-            label={t('matching.round2.habits.accept_drinking.title', 'Bạn có chấp nhận đối tác thường xuyên nhậu không?')} 
-            selectionMode="single" 
-            error={isAcceptDrinkingError}
-          >
-            <div className="flex flex-wrap gap-2.5">
-              {[
-                { id: 'yes', label: t('matching.round2.habits.accept_drinking.options.yes', 'Yes') },
-                { id: 'no', label: t('matching.round2.habits.accept_drinking.options.no', 'No') },
-                { id: 'depends', label: t('matching.round2.habits.accept_drinking.options.depends', 'Depends') }
-              ].map((opt) => (
-                <OptionButton key={opt.id} label={opt.label} selected={acceptDrinking === opt.label} onClick={() => setValue('acceptDrinking', opt.label, { shouldValidate: true })} size="sm" />
-              ))}
-            </div>
-          </SurveyFieldGroup>
-        </div>
+        <SurveyFieldGroup
+          id="group-drinking"
+          label={t('matching.round2.habits.drinking.title', 'Mức độ uống rượu bia của bạn?')}
+          selectionMode="single"
+          error={isDrinkingError}
+        >
+          <div className="flex flex-wrap gap-2.5">
+            {[
+              { id: 'never', label: t('matching.round2.habits.drinking.options.never', 'Never') },
+              { id: 'occasionally', label: t('matching.round2.habits.drinking.options.occasionally', 'Occasionally') },
+              { id: 'socially', label: t('matching.round2.habits.drinking.options.socially', 'Socially') },
+              { id: 'regularly', label: t('matching.round2.habits.drinking.options.regularly', 'Regularly') }
+            ].map((opt) => (
+              <OptionButton key={opt.id} label={opt.label} selected={drinking === opt.label} onClick={() => setValue('drinking', opt.label, { shouldValidate: true })} size="sm" />
+            ))}
+          </div>
+        </SurveyFieldGroup>
+        <SurveyFieldGroup
+          id="group-accept-drinking"
+          label={t('matching.round2.habits.accept_drinking.title', 'Bạn có chấp nhận đối tác thường xuyên nhậu không?')}
+          selectionMode="single"
+          error={isAcceptDrinkingError}
+        >
+          <div className="flex flex-wrap gap-2.5">
+            {[
+              { id: 'yes', label: t('matching.round2.habits.accept_drinking.options.yes', 'Yes') },
+              { id: 'no', label: t('matching.round2.habits.accept_drinking.options.no', 'No') },
+              { id: 'depends', label: t('matching.round2.habits.accept_drinking.options.depends', 'Depends') }
+            ].map((opt) => (
+              <OptionButton key={opt.id} label={opt.label} selected={acceptDrinking === opt.label} onClick={() => setValue('acceptDrinking', opt.label, { shouldValidate: true })} size="sm" />
+            ))}
+          </div>
+        </SurveyFieldGroup>
 
       </div>
     </GroupedStepLayout>
